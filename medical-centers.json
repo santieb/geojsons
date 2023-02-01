@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "CAPS N1"
+        "name": "CAPS 1 - RG"
       },
       "geometry": {
         "coordinates": [
@@ -61,7 +61,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "CAPS N2"
+        "name": "CAPS 2 - RG"
       },
       "geometry": {
         "coordinates": [
@@ -138,7 +138,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "CAPS N3"
+        "name": "CAPS 3 - RG"
       },
       "geometry": {
         "coordinates": [
@@ -195,7 +195,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "CAPS N4"
+        "name": "CAPS 4 - RG"
       },
       "geometry": {
         "coordinates": [
@@ -256,7 +256,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "CAPS N5"
+        "name": "CAPS 5 - RG"
       },
       "geometry": {
         "coordinates": [
@@ -381,7 +381,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "CAPS N6"
+        "name": "CAPS 6 - RG"
       },
       "geometry": {
         "coordinates": [
@@ -454,7 +454,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "CAPS N7"
+        "name": "CAPS 7 - RG"
       },
       "geometry": {
         "coordinates": [
@@ -543,7 +543,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "CAC N1"
+        "name": "CAC 1"
       },
       "geometry": {
         "coordinates": [
@@ -608,7 +608,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "CAC N2"
+        "name": "CAC 2"
       },
       "geometry": {
         "coordinates": [
@@ -701,7 +701,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "CAC N3"
+        "name": "CAC 3"
       },
       "geometry": {
         "coordinates": [
