@@ -1,80 +1,4937 @@
-{ "type": "Feature", "properties": { "id": 1, "nombre": "25 de Mayo", "layer": "b_25mayol", "shape_area": 3.92, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "1  25 de Mayo", "FNA": "Barrio 25 de Mayo", "GNA": "Barrio", "NAM": "25 de Mayo", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7193983, -53.789325 ], [ -67.7224125, -53.791378 ], [ -67.7209215, -53.7921321 ], [ -67.7179073, -53.7900854 ], [ -67.7193983, -53.789325 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 2, "nombre": "2 de Abril", "layer": "b_2abril", "shape_area": 7.12, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "2  2 de Abril", "FNA": "Barrio 2 de Abril", "GNA": "Barrio", "NAM": "2 de Abril", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.716824, -53.7942293 ], [ -67.7148396, -53.7928797 ], [ -67.7189371, -53.7907634 ], [ -67.7209, -53.7921321 ], [ -67.716824, -53.7942293 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 3, "nombre": "8 de Octubre", "layer": "b_8octub", "shape_area": 1.9, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "3  8 de Octubre", "FNA": "Barrio 8 de Octubre", "GNA": "Barrio", "NAM": "8 de Octubre", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7291203, -53.7699741 ], [ -67.7276722, -53.7706968 ], [ -67.727093, -53.7688266 ], [ -67.7286269, -53.7686554 ], [ -67.7290559, -53.7699297 ], [ -67.7291203, -53.7699741 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 4, "nombre": "Aeroposta", "layer": "b_aeroposta", "shape_area": 6.33, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "4 Aeroposta", "FNA": "Barrio Aeroposta", "GNA": "Barrio", "NAM": "Aeroposta", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.6646441, -53.7994931 ], [ -67.6662243, -53.8024951 ], [ -67.6655723, -53.80258 ], [ -67.6648983, -53.8027105 ], [ -67.6635833, -53.8029128 ], [ -67.6619479, -53.7999434 ], [ -67.663296, -53.7997346 ], [ -67.6646441, -53.7994931 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 5, "nombre": "Aeropuerto", "layer": "b_aerpuerto", "shape_area": 19.68, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "5 Aeropuerto", "FNA": "Barrio Aeropuerto", "GNA": "Barrio", "NAM": "Aeropuerto", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7561983, -53.7870158 ], [ -67.7581432, -53.7868133 ], [ -67.7588456, -53.7873943 ], [ -67.7540994, -53.7899353 ], [ -67.7526636, -53.7889396 ], [ -67.7509556, -53.7896731 ], [ -67.7492498, -53.7906558 ], [ -67.7453541, -53.7876504 ], [ -67.7492903, -53.7872042 ], [ -67.7535945, -53.7870708 ], [ -67.7561983, -53.7870158 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 6, "nombre": "AGP", "layer": "b_agp", "shape_area": 18.25, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "6 AGP", "FNA": "Barrio AGP", "GNA": "Barrio", "NAM": "AGP", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.6890052, -53.7950775 ], [ -67.6893056, -53.7994368 ], [ -67.6887692, -53.7995382 ], [ -67.6881684, -53.8008687 ], [ -67.6861087, -53.7998297 ], [ -67.6855509, -53.7996903 ], [ -67.6845854, -53.7990947 ], [ -67.6833839, -53.7991581 ], [ -67.682397, -53.7994749 ], [ -67.6822253, -53.7993608 ], [ -67.681882, -53.7982203 ], [ -67.6819249, -53.7981316 ], [ -67.688619, -53.7945833 ], [ -67.6890052, -53.7950775 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 7, "nombre": "Alem", "layer": "b_alem", "shape_area": 7.49, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "7 Alem", "FNA": "Barrio Alem", "GNA": "Barrio", "NAM": "Alem", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7178989, -53.7643336 ], [ -67.7189289, -53.7676946 ], [ -67.7164399, -53.7679799 ], [ -67.7162146, -53.7680624 ], [ -67.7141869, -53.7665975 ], [ -67.7147769, -53.7662044 ], [ -67.7156138, -53.7654814 ], [ -67.7178024, -53.7642892 ], [ -67.7178989, -53.7643336 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 8, "nombre": "Almafuerte", "layer": "b_almafue", "shape_area": 6.56, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "8 Almafuerte", "FNA": "Barrio Almafuerte", "GNA": "Barrio", "NAM": "Almafuerte", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7216003, -53.7882098 ], [ -67.7238747, -53.7898069 ], [ -67.725366, -53.7890464 ], [ -67.7260312, -53.7895091 ], [ -67.7224049, -53.791366 ], [ -67.7193902, -53.7893189 ], [ -67.7216003, -53.7882098 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 9, "nombre": "La Antena", "layer": "b_antena", "shape_area": 0.51, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "9 La Antena", "FNA": "Barrio La Antena", "GNA": "Barrio", "NAM": "La Antena", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.6972133, -53.7962157 ], [ -67.6972991, -53.7972549 ], [ -67.695883, -53.7962664 ], [ -67.6972133, -53.7962157 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 10, "nombre": "Austral", "layer": "b_austral", "shape_area": 4.55, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "10 Austral", "FNA": "Barrio Austral", "GNA": "Barrio", "NAM": "Austral", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.6662088, -53.8024776 ], [ -67.6673138, -53.8045811 ], [ -67.6647605, -53.8051386 ], [ -67.6635481, -53.8029211 ], [ -67.6648785, -53.8027057 ], [ -67.6662088, -53.8024776 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 11, "nombre": "Tte. Bernhardt", "layer": "b_bernhardt", "shape_area": 8.87, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "11 Tte. Bernhardt", "FNA": "Barrio Tte. Bernhardt", "GNA": "Barrio", "NAM": "Tte. Bernhardt", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7314871, -53.7662318 ], [ -67.7351241, -53.7687367 ], [ -67.7335899, -53.7695737 ], [ -67.73256, -53.7700746 ], [ -67.7292018, -53.7717994 ], [ -67.7277856, -53.7708102 ], [ -67.7293091, -53.770119 ], [ -67.7299529, -53.7697259 ], [ -67.7299636, -53.7696371 ], [ -67.7311438, -53.7690854 ], [ -67.7322703, -53.7685084 ], [ -67.7322488, -53.768502 ], [ -67.7314871, -53.7662318 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 12, "nombre": "Bischof", "layer": "b_bischof", "shape_area": 6.4, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "12 Bischof", "FNA": "Barrio Bischof", "GNA": "Barrio", "NAM": "Bischof", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7260246, -53.7895246 ], [ -67.7280197, -53.7908933 ], [ -67.7243727, -53.7927498 ], [ -67.7223561, -53.7913939 ], [ -67.7260246, -53.7895246 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 13, "nombre": "Ex. Frig. (CAP)", "layer": "b_cap", "shape_area": 6.87, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "13 Ex. Frig. (CAP)", "FNA": "Barrio Ex. Frig. (CAP)", "GNA": "Barrio", "NAM": "Ex. Frig. (CAP)", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.6656684, -53.8014406 ], [ -67.6670913, -53.8009884 ], [ -67.6685067, -53.8036734 ], [ -67.6702363, -53.8033182 ], [ -67.6707683, -53.8047937 ], [ -67.668016, -53.8054611 ], [ -67.6673102, -53.8045821 ], [ -67.6656684, -53.8014406 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 14, "nombre": "ARA Gral. Belgrano", "layer": "b_caragb", "shape_area": 3.31, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "14ARA  Gral. Belgrano", "FNA": "Barrio ARA Gral. Belgrano", "GNA": "Barrio", "NAM": "ARA Gral. Belgrano", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7292593, -53.7728664 ], [ -67.7316195, -53.7745275 ], [ -67.7315552, -53.7745592 ], [ -67.7295168, -53.7745275 ], [ -67.7288838, -53.7745022 ], [ -67.7274999, -53.7744895 ], [ -67.7269849, -53.7744641 ], [ -67.7267596, -53.7744324 ], [ -67.7264592, -53.7742866 ], [ -67.7292593, -53.7728664 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 15, "nombre": "Cabo Domingo", "layer": "b_cdomin", "shape_area": 6.87, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "15 Cabo Domingo", "FNA": "Barrio Cabo Domingo", "GNA": "Barrio", "NAM": "Cabo Domingo", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7229199, -53.7672158 ], [ -67.7214286, -53.7673617 ], [ -67.7199159, -53.7675709 ], [ -67.7197657, -53.7670763 ], [ -67.7191113, -53.7651168 ], [ -67.7189181, -53.7646095 ], [ -67.7204309, -53.7644192 ], [ -67.7219758, -53.7642353 ], [ -67.7226624, -53.7662266 ], [ -67.7229199, -53.7672158 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 16, "nombre": "CGT", "layer": "b_cgt", "shape_area": 12.56, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "16 CGT", "FNA": "Barrio CGT", "GNA": "Barrio", "NAM": "CGT", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7285635, -53.7601191 ], [ -67.7291536, -53.7604996 ], [ -67.7303659, -53.7612417 ], [ -67.7326511, -53.7627447 ], [ -67.7320718, -53.7630555 ], [ -67.729057, -53.7645776 ], [ -67.7249908, -53.7617427 ], [ -67.7272975, -53.7605821 ], [ -67.7285635, -53.7601191 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 17, "nombre": "Cacra XI", "layer": "b_chacra11", "shape_area": 38.58, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "17 Cacra XI", "FNA": "Barrio Cacra XI", "GNA": "Barrio", "NAM": "Cacra XI", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7761233, -53.7893254 ], [ -67.7760492, -53.7892962 ], [ -67.7761225, -53.7893271 ], [ -67.7761136, -53.7893469 ], [ -67.7741609, -53.7939861 ], [ -67.773603, -53.7936693 ], [ -67.7698479, -53.7910962 ], [ -67.763475, -53.7867862 ], [ -67.7648698, -53.7867102 ], [ -67.7669726, -53.7866595 ], [ -67.7690325, -53.7865834 ], [ -67.7730666, -53.7865327 ], [ -67.7747617, -53.7865834 ], [ -67.7763281, -53.7863679 ], [ -67.77665, -53.7863172 ], [ -67.7775083, -53.7862538 ], [ -67.7761233, -53.7893254 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 18, "nombre": "Chacra XIII", "layer": "b_chacra13", "shape_area": 89.97, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "18 Chacra XIII", "FNA": "Barrio Chacra XIII", "GNA": "Barrio", "NAM": "Chacra XIII", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7553904, -53.7948723 ], [ -67.765411, -53.8018553 ], [ -67.7580297, -53.8058088 ], [ -67.7565706, -53.8056695 ], [ -67.7540815, -53.805264 ], [ -67.7523864, -53.8048585 ], [ -67.7512492, -53.8044657 ], [ -67.749554, -53.8036547 ], [ -67.7487816, -53.8031478 ], [ -67.7446832, -53.8003853 ], [ -67.7553904, -53.7948723 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 19, "nombre": "Costanera", "layer": "b_costaner", "shape_area": 5.99, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "19 Costanera", "FNA": "Barrio Costanera", "GNA": "Barrio", "NAM": "Costanera", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.700744, -53.793841 ], [ -67.7036944, -53.7958626 ], [ -67.6989094, -53.7960464 ], [ -67.69671, -53.7961287 ], [ -67.6959483, -53.7961921 ], [ -67.6971713, -53.7955964 ], [ -67.6994244, -53.7945064 ], [ -67.700744, -53.793841 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 20, "nombre": "Cabo Peña", "layer": "b_cpena", "shape_area": 11.88, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "20 Cabo Peña", "FNA": "Barrio Cabo Peña", "GNA": "Barrio", "NAM": "Cabo Peña", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.6635513, -53.8029012 ], [ -67.6647621, -53.8051636 ], [ -67.6602008, -53.8061777 ], [ -67.6589778, -53.8064311 ], [ -67.6570252, -53.8041376 ], [ -67.6578835, -53.8038968 ], [ -67.6610806, -53.803352 ], [ -67.6626437, -53.8031051 ], [ -67.6635513, -53.8029012 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 21, "nombre": "Danés", "layer": "b_danes", "shape_area": 11.25, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "21 Danés", "FNA": "Barrio Danés", "GNA": "Barrio", "NAM": "Danés", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7292318, -53.7902977 ], [ -67.7312377, -53.7916663 ], [ -67.7249305, -53.7949231 ], [ -67.7228925, -53.7935102 ], [ -67.7292318, -53.7902977 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 22, "nombre": "Don Bosco", "layer": "b_donbosco", "shape_area": 22.45, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "22 Don Bosco", "FNA": "Barrio Don Bosco", "GNA": "Barrio", "NAM": "Don Bosco", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7140307, -53.7828156 ], [ -67.7176141, -53.7852751 ], [ -67.7124214, -53.7878992 ], [ -67.7063489, -53.7837158 ], [ -67.7091384, -53.7822832 ], [ -67.7117133, -53.7840074 ], [ -67.7140307, -53.7828156 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 23, "nombre": "Esther Acosta", "layer": "b_eacosta", "shape_area": 1.14, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "23 Esther Acosta", "FNA": "Barrio Esther Acosta", "GNA": "Barrio", "NAM": "Esther Acosta", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7229078, -53.7672429 ], [ -67.7232296, -53.7682512 ], [ -67.7217491, -53.7684161 ], [ -67.7214272, -53.7673951 ], [ -67.7229078, -53.7672429 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 24, "nombre": "Ecológico", "layer": "b_ecolog", "shape_area": 8.21, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "24 Ecológico", "FNA": "Barrio Ecológico", "GNA": "Barrio", "NAM": "Ecológico", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.6588944, -53.8026302 ], [ -67.6594321, -53.8036438 ], [ -67.6586548, -53.803765 ], [ -67.6578563, -53.803927 ], [ -67.6570302, -53.8041044 ], [ -67.6562363, -53.8031287 ], [ -67.6554424, -53.8022227 ], [ -67.6546485, -53.8012279 ], [ -67.6563651, -53.8009048 ], [ -67.6571804, -53.8007717 ], [ -67.6587977, -53.8004875 ], [ -67.659757, -53.8024823 ], [ -67.6588944, -53.8026302 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 25, "nombre": "Elcano", "layer": "b_elcano", "shape_area": 4.56, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "25 Elcano", "FNA": "Barrio Elcano", "GNA": "Barrio", "NAM": "Elcano", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.6968637, -53.7824792 ], [ -67.6954047, -53.7847356 ], [ -67.6964346, -53.7854962 ], [ -67.6943319, -53.7865736 ], [ -67.6931519, -53.7863455 ], [ -67.6944392, -53.7845328 ], [ -67.6958338, -53.7821876 ], [ -67.6968637, -53.7824792 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 26, "nombre": "Esperanza", "layer": "b_esperanz", "shape_area": 1.11, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "26 Esperanza", "FNA": "Barrio Esperanza", "GNA": "Barrio", "NAM": "Esperanza", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7178332, -53.7949454 ], [ -67.7188095, -53.7956108 ], [ -67.7176508, -53.7962127 ], [ -67.7173504, -53.7961367 ], [ -67.7165029, -53.7955854 ], [ -67.7178332, -53.7949454 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 27, "nombre": "Evita", "layer": "b_evita", "shape_area": 11.95, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "27 Evita", "FNA": "Barrio Evita", "GNA": "Barrio", "NAM": "Evita", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7177151, -53.7962506 ], [ -67.7235086, -53.7983544 ], [ -67.7236802, -53.7984558 ], [ -67.723899, -53.7989979 ], [ -67.7239377, -53.7998372 ], [ -67.7277141, -53.8020929 ], [ -67.7269202, -53.8026378 ], [ -67.7237231, -53.8010284 ], [ -67.7166852, -53.796821 ], [ -67.7177151, -53.7962506 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 28, "nombre": "Gaucho Argentino", "layer": "b_gargenti", "shape_area": 1.79, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "28 Gaucho Argentino", "FNA": "Barrio Gaucho Argentino", "GNA": "Barrio", "NAM": "Gaucho Argentino", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.724163, -53.7681497 ], [ -67.7244634, -53.7691262 ], [ -67.7235622, -53.769234 ], [ -67.7220602, -53.7693862 ], [ -67.7217383, -53.7684161 ], [ -67.7232511, -53.7682512 ], [ -67.724163, -53.7681497 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 29, "nombre": "Independencia", "layer": "b_independ", "shape_area": 15.72, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "29 Independencia", "FNA": "Barrio Independencia", "GNA": "Barrio", "NAM": "Independencia", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7278739, -53.7969406 ], [ -67.7237972, -53.7990506 ], [ -67.7236792, -53.798512 ], [ -67.7235397, -53.7983726 ], [ -67.7204822, -53.7972257 ], [ -67.7173066, -53.7961358 ], [ -67.7161479, -53.7957556 ], [ -67.7178001, -53.7949382 ], [ -67.71883, -53.7955972 ], [ -67.7201603, -53.7949128 ], [ -67.7221772, -53.7962942 ], [ -67.7249022, -53.7948748 ], [ -67.7278739, -53.7969406 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 30, "nombre": "Intevu", "layer": "b_intevu", "shape_area": 13.33, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "30 Intevu", "FNA": "Barrio Intevu", "GNA": "Barrio", "NAM": "Intevu", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7249139, -53.7948984 ], [ -67.7221674, -53.7962989 ], [ -67.7211589, -53.7956018 ], [ -67.7198178, -53.7963115 ], [ -67.716803, -53.794233 ], [ -67.7209121, -53.7921162 ], [ -67.7249139, -53.7948984 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 31, "nombre": "Jardín", "layer": "b_jardin", "shape_area": 4.81, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "31 Jardín", "FNA": "Barrio Jardín", "GNA": "Barrio", "NAM": "Jardín", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7291431, -53.7699996 ], [ -67.7255279, -53.7718382 ], [ -67.7254099, -53.7718636 ], [ -67.7252275, -53.771965 ], [ -67.7244336, -53.7720665 ], [ -67.7238651, -53.7702088 ], [ -67.7248091, -53.7700947 ], [ -67.7249807, -53.7700947 ], [ -67.7289714, -53.7696318 ], [ -67.729068, -53.7699108 ], [ -67.7291431, -53.7699996 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 32, "nombre": "J.L.Borges", "layer": "b_jlborges", "shape_area": 2.35, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "32 J.L.Borges", "FNA": "Barrio J.L.Borges", "GNA": "Barrio", "NAM": "J.L.Borges", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7264612, -53.7668166 ], [ -67.7279952, -53.7666644 ], [ -67.7283278, -53.7676472 ], [ -67.7286496, -53.7686491 ], [ -67.7270941, -53.7688329 ], [ -67.7264612, -53.7668166 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 33, "nombre": "Juan M. de Rosas", "layer": "b_jmrosas", "shape_area": 9.3, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "33 Juan M. de Rosas", "FNA": "Barrio Juan M. de Rosas", "GNA": "Barrio", "NAM": "Juan M. de Rosas", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7110487, -53.7955816 ], [ -67.7065329, -53.7957527 ], [ -67.7034973, -53.7936428 ], [ -67.7062218, -53.7922932 ], [ -67.7072623, -53.7929965 ], [ -67.7082813, -53.7937125 ], [ -67.709311, -53.7944348 ], [ -67.7103622, -53.7951571 ], [ -67.7110487, -53.7955816 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 34, "nombre": "Kau Kren", "layer": "b_kaukren", "shape_area": 3.47, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "34 Kau Kren", "FNA": "Barrio Kau Kren", "GNA": "Barrio", "NAM": "Kau Kren", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7308176, -53.7942701 ], [ -67.7318366, -53.7949607 ], [ -67.7279, -53.7969628 ], [ -67.7268917, -53.7962849 ], [ -67.7308176, -53.7942701 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 35, "nombre": "La Costa", "layer": "b_lacosta", "shape_area": 5.58, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "35 La Costa", "FNA": "Barrio La Costa", "GNA": "Barrio", "NAM": "La Costa", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.6955712, -53.7821462 ], [ -67.6941122, -53.7844789 ], [ -67.6928891, -53.7862917 ], [ -67.692578, -53.7867544 ], [ -67.6923205, -53.7872678 ], [ -67.6920523, -53.7871981 ], [ -67.6914837, -53.7850494 ], [ -67.69246, -53.7841176 ], [ -67.6931895, -53.7834901 ], [ -67.6937688, -53.7827674 ], [ -67.6947451, -53.7819624 ], [ -67.6955712, -53.7821462 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 36, "nombre": null, "layer": "b_lavega", "shape_area": 4.85, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "36 La Vega", "FNA": null, "GNA": "Barrio", "NAM": null, "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7075442, -53.7915966 ], [ -67.711664, -53.7944611 ], [ -67.710398, -53.7951709 ], [ -67.7062353, -53.7922937 ], [ -67.7075442, -53.7915966 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 37, "nombre": "Loffler", "layer": "b_loffler", "shape_area": 5.77, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "37 Loffler", "FNA": "Barrio Loffler", "GNA": "Barrio", "NAM": "Loffler", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7040359, -53.7958426 ], [ -67.7008709, -53.7937577 ], [ -67.7038106, -53.7922557 ], [ -67.7048405, -53.7929465 ], [ -67.70336, -53.7937006 ], [ -67.7063318, -53.7957349 ], [ -67.7040359, -53.7958426 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 38, "nombre": "Los Alamos", "layer": "b_losalamos", "shape_area": 47.02, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "38 Los Alamos", "FNA": "Barrio Los Alamos", "GNA": "Barrio", "NAM": "Los Alamos", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7273064, -53.7873818 ], [ -67.7262979, -53.787217 ], [ -67.7253323, -53.7869508 ], [ -67.7247208, -53.7865388 ], [ -67.7230149, -53.7854295 ], [ -67.7213949, -53.7843329 ], [ -67.7202577, -53.7835025 ], [ -67.7145827, -53.7795656 ], [ -67.7185845, -53.7776806 ], [ -67.7254933, -53.7822157 ], [ -67.728787, -53.7844343 ], [ -67.7296876, -53.7852593 ], [ -67.7315924, -53.7852368 ], [ -67.7342555, -53.7871181 ], [ -67.7273064, -53.7873818 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 39, "nombre": "Los Lupinos", "layer": "b_loslupinos", "shape_area": 8.26, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "39 Los Lupinos", "FNA": "Barrio Los Lupinos", "GNA": "Barrio", "NAM": "Los Lupinos", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.694554, -53.7912422 ], [ -67.6970321, -53.7928518 ], [ -67.6956697, -53.7934855 ], [ -67.6944145, -53.7927124 ], [ -67.6927839, -53.7936059 ], [ -67.6916953, -53.7928109 ], [ -67.6915289, -53.791734 ], [ -67.6910977, -53.7914719 ], [ -67.6912315, -53.7908631 ], [ -67.6921423, -53.7899499 ], [ -67.6927037, -53.7899492 ], [ -67.6932813, -53.7903396 ], [ -67.694554, -53.7912422 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 40, "nombre": "Los Pinares", "layer": "b_lospinares", "shape_area": 2.87, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "40 Los Pinares", "FNA": "Barrio Los Pinares", "GNA": "Barrio", "NAM": "Los Pinares", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7320881, -53.7714435 ], [ -67.7332253, -53.772236 ], [ -67.7304145, -53.7736816 ], [ -67.7292452, -53.7728827 ], [ -67.7320881, -53.7714435 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 41, "nombre": "Marina", "layer": "b_marina", "shape_area": 5.24, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "41 Marina", "FNA": "Barrio Marina", "GNA": "Barrio", "NAM": "Marina", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7114665, -53.7810565 ], [ -67.71402, -53.7828125 ], [ -67.7117026, -53.7840105 ], [ -67.7091384, -53.7822483 ], [ -67.7114665, -53.7810565 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 42, "nombre": "Mosconi", "layer": "b_mosconi", "shape_area": 2.28, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "42 Mosconi", "FNA": "Barrio Mosconi", "GNA": "Barrio", "NAM": "Mosconi", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.6991379, -53.7790816 ], [ -67.6977433, -53.7810213 ], [ -67.6970568, -53.7822003 ], [ -67.6959625, -53.7819848 ], [ -67.6964989, -53.7811734 ], [ -67.6976146, -53.7797662 ], [ -67.697915, -53.7794493 ], [ -67.6991379, -53.7790816 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 43, "nombre": "Parque Industrial", "layer": "b_parqueindustrial", "shape_area": 155.86, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "43 Parque Industrial", "FNA": "Barrio Parque Industrial", "GNA": "Barrio", "NAM": "Parque Industrial", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7346304, -53.793685 ], [ -67.7503788, -53.8050522 ], [ -67.7567526, -53.8063118 ], [ -67.7540763, -53.8075674 ], [ -67.7480086, -53.8104654 ], [ -67.7430172, -53.8073276 ], [ -67.740733, -53.8067221 ], [ -67.7303659, -53.8037446 ], [ -67.7240145, -53.7998415 ], [ -67.7238844, -53.7989616 ], [ -67.7346304, -53.793685 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 44, "nombre": "Peron I", "layer": "b_peron1", "shape_area": 5.47, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "44 Peron I", "FNA": "Barrio Peron I", "GNA": "Barrio", "NAM": "Peron I", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7036194, -53.7959361 ], [ -67.7037588, -53.7969816 ], [ -67.702847, -53.797045 ], [ -67.7027826, -53.797026 ], [ -67.7019244, -53.7970703 ], [ -67.6982877, -53.7972097 ], [ -67.6972793, -53.7972604 ], [ -67.6958955, -53.7962783 ], [ -67.698985, -53.7961325 ], [ -67.6990172, -53.7961262 ], [ -67.7008838, -53.7960628 ], [ -67.7018171, -53.7960185 ], [ -67.7027397, -53.7959868 ], [ -67.7036194, -53.7959361 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 45, "nombre": "Peron II", "layer": "b_peron2", "shape_area": 6.37, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "45 Peron II", "FNA": "Barrio Peron II", "GNA": "Barrio", "NAM": "Peron II", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7117535, -53.7956004 ], [ -67.7119252, -53.7967663 ], [ -67.711067, -53.796703 ], [ -67.7097904, -53.7967536 ], [ -67.7080418, -53.796798 ], [ -67.7063683, -53.7968424 ], [ -67.705553, -53.7968804 ], [ -67.7037614, -53.7969818 ], [ -67.7036434, -53.7959046 ], [ -67.7117535, -53.7956004 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 46, "nombre": "Profesionales", "layer": "b_profesionales", "shape_area": 9.46, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "46 Profesionales", "FNA": "Barrio Profesionales", "GNA": "Barrio", "NAM": "Profesionales", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7033508, -53.7724968 ], [ -67.70275, -53.7722686 ], [ -67.7036083, -53.7712414 ], [ -67.7038443, -53.7710004 ], [ -67.7047026, -53.7702268 ], [ -67.7042091, -53.7698337 ], [ -67.706033, -53.7683499 ], [ -67.7069557, -53.7676269 ], [ -67.7076852, -53.7669801 ], [ -67.7083933, -53.7666123 ], [ -67.70908, -53.7662445 ], [ -67.7094662, -53.7661684 ], [ -67.7098095, -53.7659908 ], [ -67.7099168, -53.7658259 ], [ -67.7115476, -53.7651284 ], [ -67.7117836, -53.7650523 ], [ -67.7119553, -53.7652298 ], [ -67.7106786, -53.7664664 ], [ -67.7095842, -53.7673733 ], [ -67.7085435, -53.7682294 ], [ -67.7033508, -53.7724968 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 47, "nombre": "Progreso", "layer": "b_progreso", "shape_area": 3.47, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "47 Progreso", "FNA": "Barrio Progreso", "GNA": "Barrio", "NAM": "Progreso", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.6982117, -53.7936946 ], [ -67.6994133, -53.7945058 ], [ -67.6958406, -53.7962359 ], [ -67.6953364, -53.7958049 ], [ -67.6948643, -53.795393 ], [ -67.6982117, -53.7936946 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 48, "nombre": "Provincia Fueguina", "layer": "b_provfueguina", "shape_area": 7.31, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "48 Provincia Fueguina", "FNA": "Barrio Provincia Fueguina", "GNA": "Barrio", "NAM": "Provincia Fueguina", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7249157, -53.7617037 ], [ -67.7280592, -53.7638917 ], [ -67.7286493, -53.7655976 ], [ -67.7289497, -53.7665616 ], [ -67.7279841, -53.7666757 ], [ -67.7264714, -53.7668152 ], [ -67.726171, -53.7658577 ], [ -67.7255165, -53.7638536 ], [ -67.7252268, -53.7628706 ], [ -67.7250552, -53.7623062 ], [ -67.7249157, -53.7617037 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 49, "nombre": "Reconquista", "layer": "b_reconquista", "shape_area": 8.45, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "49 Reconquista", "FNA": "Barrio Reconquista", "GNA": "Barrio", "NAM": "Reconquista", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.6635684, -53.8029083 ], [ -67.6626672, -53.8030983 ], [ -67.6618196, -53.8032441 ], [ -67.6610364, -53.8033644 ], [ -67.6602424, -53.8034975 ], [ -67.6594271, -53.8036496 ], [ -67.6589013, -53.8026231 ], [ -67.6597704, -53.8024774 ], [ -67.6592661, -53.8015143 ], [ -67.6587833, -53.8004878 ], [ -67.6596202, -53.8003547 ], [ -67.6604034, -53.8002344 ], [ -67.6619483, -53.7999397 ], [ -67.6635684, -53.8029083 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 50, "nombre": "San Cayetano", "layer": "b_sancayetano", "shape_area": 5.12, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "50 San Cayetano", "FNA": "Barrio San Cayetano", "GNA": "Barrio", "NAM": "San Cayetano", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7111077, -53.7922782 ], [ -67.7151632, -53.7950983 ], [ -67.7145087, -53.7954279 ], [ -67.7141976, -53.7954786 ], [ -67.7132857, -53.7955356 ], [ -67.7127063, -53.7951554 ], [ -67.7096271, -53.7930323 ], [ -67.7111077, -53.7922782 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 51, "nombre": "San Martin", "layer": "b_sanmartin", "shape_area": 21.73, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "51 San Martin", "FNA": "Barrio San Martin", "GNA": "Barrio", "NAM": "San Martin", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7334129, -53.7876831 ], [ -67.7351081, -53.7876451 ], [ -67.7395154, -53.7877801 ], [ -67.7446986, -53.7876233 ], [ -67.7454974, -53.7881624 ], [ -67.742496, -53.789578 ], [ -67.7369792, -53.791766 ], [ -67.7345394, -53.7900346 ], [ -67.7335953, -53.7892613 ], [ -67.7334451, -53.7887479 ], [ -67.7334129, -53.7882092 ], [ -67.7334129, -53.7876831 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 52, "nombre": "Santa Rosa", "layer": "b_santarosa", "shape_area": 5.83, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "52 Santa Rosa", "FNA": "Barrio Santa Rosa", "GNA": "Barrio", "NAM": "Santa Rosa", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7224802, -53.75995 ], [ -67.7235317, -53.7605969 ], [ -67.7234244, -53.760654 ], [ -67.7248942, -53.7616878 ], [ -67.7225232, -53.7619669 ], [ -67.7223622, -53.7619098 ], [ -67.7222013, -53.7619669 ], [ -67.7213966, -53.7624045 ], [ -67.7199482, -53.7631085 ], [ -67.7186608, -53.7621508 ], [ -67.7200019, -53.7614595 ], [ -67.7217936, -53.7604067 ], [ -67.7224802, -53.75995 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 53, "nombre": "Telkien", "layer": "b_telkien", "shape_area": 6.38, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "53 Telkien", "FNA": "Barrio Telkien", "GNA": "Barrio", "NAM": "Telkien", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7312242, -53.7916634 ], [ -67.7342283, -53.7937421 ], [ -67.7318358, -53.7949716 ], [ -67.730838, -53.7942681 ], [ -67.7298402, -53.7936027 ], [ -67.7287781, -53.7929246 ], [ -67.7312242, -53.7916634 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 54, "nombre": "Textil", "layer": "b_textil", "shape_area": 6.46, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "54 Textil", "FNA": "Barrio Textil", "GNA": "Barrio", "NAM": "Textil", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7220618, -53.7693866 ], [ -67.7205276, -53.7695578 ], [ -67.7195727, -53.7696847 ], [ -67.7187359, -53.7697671 ], [ -67.7162146, -53.7680423 ], [ -67.7164614, -53.7679725 ], [ -67.7189505, -53.7676999 ], [ -67.7199161, -53.7675857 ], [ -67.7214074, -53.7673828 ], [ -67.7220618, -53.7693866 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 55, "nombre": "Thorne", "layer": "b_thorne", "shape_area": 57.65, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "55 Thorne", "FNA": "Barrio Thorne", "GNA": "Barrio", "NAM": "Thorne", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7028841, -53.7738981 ], [ -67.7035278, -53.7738093 ], [ -67.7038926, -53.7736445 ], [ -67.7041286, -53.7735811 ], [ -67.7045149, -53.773543 ], [ -67.7048367, -53.7735557 ], [ -67.7137202, -53.7797436 ], [ -67.7061671, -53.7835978 ], [ -67.6987857, -53.778463 ], [ -67.6999015, -53.7771189 ], [ -67.7008242, -53.7760031 ], [ -67.7013606, -53.775293 ], [ -67.7021116, -53.7746336 ], [ -67.7025193, -53.7740376 ], [ -67.7028841, -53.7738981 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 56, "nombre": "Unión", "layer": "b_union", "shape_area": 7.67, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "56 Unión", "FNA": "Barrio Unión", "GNA": "Barrio", "NAM": "Unión", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7379673, -53.7676206 ], [ -67.7386647, -53.7680835 ], [ -67.7385574, -53.769523 ], [ -67.7346414, -53.771514 ], [ -67.7328282, -53.7702585 ], [ -67.7338474, -53.7697639 ], [ -67.7349954, -53.7691488 ], [ -67.7356391, -53.7687937 ], [ -67.7379673, -53.7676206 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 57, "nombre": "YPF", "layer": "b_ypf", "shape_area": 7.16, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "57 YPF", "FNA": "Barrio YPF", "GNA": "Barrio", "NAM": "YPF", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7615539, -53.743194 ], [ -67.7617577, -53.7434224 ], [ -67.7613929, -53.7436318 ], [ -67.7546553, -53.7456114 ], [ -67.7537863, -53.7457256 ], [ -67.7530997, -53.7459794 ], [ -67.7527456, -53.7458144 ], [ -67.7523165, -53.7453893 ], [ -67.7532391, -53.7450277 ], [ -67.7560608, -53.7439808 ], [ -67.756844, -53.7437397 ], [ -67.7578417, -53.7434288 ], [ -67.7587, -53.7432194 ], [ -67.7596763, -53.7429719 ], [ -67.760481, -53.7427752 ], [ -67.760835, -53.7426547 ], [ -67.7613393, -53.7432257 ], [ -67.7615539, -53.743194 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 58, "nombre": "Altos de la Estancia", "layer": null, "shape_area": 74.81, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "58 Altos de la Estancia", "FNA": "Barrio Altos de la Estancia", "GNA": "Barrio", "NAM": "Altos de la Estancia", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7773577, -53.7377323 ], [ -67.7744625, -53.744876 ], [ -67.7580779, -53.749782 ], [ -67.7568874, -53.7482899 ], [ -67.7551351, -53.7490306 ], [ -67.7521933, -53.747686 ], [ -67.7506831, -53.7469374 ], [ -67.7527055, -53.7467271 ], [ -67.7572371, -53.745341 ], [ -67.7632204, -53.7437211 ], [ -67.7639711, -53.7435731 ], [ -67.7657981, -53.7430736 ], [ -67.7690891, -53.7419006 ], [ -67.7717707, -53.740737 ], [ -67.7727294, -53.7404615 ], [ -67.7723588, -53.7399664 ], [ -67.7773577, -53.7377323 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 59, "nombre": "San Martin Norte 2", "layer": null, "shape_area": 203.51, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "59 San Martin Norte 2", "FNA": "Barrio San Martin Norte 2", "GNA": "Barrio", "NAM": "San Martin Norte 2", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.774068, -53.7454206 ], [ -67.7723809, -53.750759 ], [ -67.7500016, -53.7616895 ], [ -67.743862, -53.7616423 ], [ -67.7434133, -53.7530818 ], [ -67.7431495, -53.751293 ], [ -67.7429996, -53.7504788 ], [ -67.7418778, -53.7501295 ], [ -67.7399108, -53.7487896 ], [ -67.748069, -53.7462744 ], [ -67.7501907, -53.747568 ], [ -67.7543613, -53.7500255 ], [ -67.7557959, -53.7507404 ], [ -67.774068, -53.7454206 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 60, "nombre": "San Martin Norte 1", "layer": null, "shape_area": 52.92, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "60 San Martin Norte 1", "FNA": "Barrio San Martin Norte 1", "GNA": "Barrio", "NAM": "San Martin Norte 1", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7720128, -53.7514815 ], [ -67.7685193, -53.7597355 ], [ -67.7595646, -53.760738 ], [ -67.7537068, -53.7606402 ], [ -67.7529815, -53.7602346 ], [ -67.7698065, -53.7522718 ], [ -67.7720128, -53.7514815 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 61, "nombre": "Bilbao", "layer": null, "shape_area": 28.62, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "61 Bilbao", "FNA": "Barrio Bilbao", "GNA": "Barrio", "NAM": "Bilbao", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7438524, -53.7614594 ], [ -67.7397388, -53.7613897 ], [ -67.7398365, -53.7531563 ], [ -67.7394579, -53.7510504 ], [ -67.7431495, -53.751293 ], [ -67.7434133, -53.7530818 ], [ -67.7438524, -53.7614594 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 62, "nombre": "Policia", "layer": null, "shape_area": 13.25, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "62 Policia", "FNA": "Barrio Policia", "GNA": "Barrio", "NAM": "Policia", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7372297, -53.7497981 ], [ -67.7398365, -53.7531563 ], [ -67.7306671, -53.753055 ], [ -67.7319931, -53.751818 ], [ -67.7351509, -53.7502622 ], [ -67.7372297, -53.7497981 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 63, "nombre": "Las Barrancas", "layer": null, "shape_area": 24.47, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "63 Las Barrancas", "FNA": "Barrio Las Barrancas", "GNA": "Barrio", "NAM": "Las Barrancas", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7330387, -53.7566181 ], [ -67.7292098, -53.7600234 ], [ -67.728519, -53.7600498 ], [ -67.7248942, -53.7616878 ], [ -67.722513, -53.7599657 ], [ -67.7286189, -53.7548618 ], [ -67.7330387, -53.7566181 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 64, "nombre": "CGT 2", "layer": null, "shape_area": 91.09, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "64 CGT 2", "FNA": "Barrio CGT 2", "GNA": "Barrio", "NAM": "CGT 2", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7395271, -53.7666557 ], [ -67.7353782, -53.7685759 ], [ -67.7292953, -53.7644573 ], [ -67.7326319, -53.7627551 ], [ -67.7328585, -53.7625865 ], [ -67.7292079, -53.7602717 ], [ -67.7332271, -53.7566919 ], [ -67.7335083, -53.7564645 ], [ -67.7291286, -53.7546715 ], [ -67.7306671, -53.753055 ], [ -67.739836, -53.7531987 ], [ -67.7396072, -53.7643484 ], [ -67.7395271, -53.7666557 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 65, "nombre": "Chacra IV", "layer": null, "shape_area": 28.7, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "65 Chacra IV", "FNA": "Barrio Chacra IV", "GNA": "Barrio", "NAM": "Chacra IV", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7389804, -53.7753042 ], [ -67.7383044, -53.7752835 ], [ -67.7263249, -53.7749287 ], [ -67.7260019, -53.7747094 ], [ -67.7264878, -53.7745088 ], [ -67.7318718, -53.7745876 ], [ -67.7304163, -53.7736807 ], [ -67.7331816, -53.7722585 ], [ -67.7313843, -53.7710108 ], [ -67.7328017, -53.7702823 ], [ -67.7346414, -53.771514 ], [ -67.7385764, -53.76953 ], [ -67.7386647, -53.7680835 ], [ -67.7379793, -53.7676286 ], [ -67.7382348, -53.7674974 ], [ -67.7395362, -53.7671918 ], [ -67.7389804, -53.7753042 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 66, "nombre": "Buena Vista", "layer": null, "shape_area": 23.34, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "66 Buena Vista", "FNA": "Barrio Buena Vista", "GNA": "Barrio", "NAM": "Buena Vista", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7246376, -53.7740459 ], [ -67.7192677, -53.7769156 ], [ -67.7144238, -53.7735976 ], [ -67.7200856, -53.7707245 ], [ -67.7246376, -53.7740459 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 67, "nombre": "Mutual", "layer": null, "shape_area": 60.46, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "67 Mutual", "FNA": "Barrio Mutual", "GNA": "Barrio", "NAM": "Mutual", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7198217, -53.7706767 ], [ -67.7090886, -53.7763034 ], [ -67.7046483, -53.7734542 ], [ -67.7043023, -53.7722532 ], [ -67.7126662, -53.765602 ], [ -67.7198217, -53.7706767 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 68, "nombre": "La Trucha", "layer": null, "shape_area": 16.27, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "68 La Trucha", "FNA": "Barrio La Trucha", "GNA": "Barrio", "NAM": "La Trucha", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7334129, -53.7877634 ], [ -67.7331059, -53.7886053 ], [ -67.7334126, -53.7892859 ], [ -67.7343424, -53.7901282 ], [ -67.7368891, -53.7919985 ], [ -67.7346244, -53.7931517 ], [ -67.7318461, -53.7913898 ], [ -67.7285322, -53.7890986 ], [ -67.7274039, -53.7883189 ], [ -67.7270723, -53.7878238 ], [ -67.7334129, -53.7877634 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 69, "nombre": "Chacra IX B", "layer": null, "shape_area": 36.77, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "69 Chacra IX B", "FNA": "Barrio Chacra IX B", "GNA": "Barrio", "NAM": "Chacra IX B", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7346007, -53.7932947 ], [ -67.7396947, -53.790801 ], [ -67.745457, -53.7883364 ], [ -67.7490515, -53.7908472 ], [ -67.7388918, -53.7962609 ], [ -67.7346007, -53.7932947 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 70, "nombre": "Chacra IX A", "layer": null, "shape_area": 53.68, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "70 Chacra IX A", "FNA": "Barrio Chacra IX A", "GNA": "Barrio", "NAM": "Chacra IX A", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7552404, -53.79476 ], [ -67.74473, -53.8002951 ], [ -67.7389712, -53.7963223 ], [ -67.7493071, -53.7908581 ], [ -67.7552404, -53.79476 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 71, "nombre": "Donoso 1", "layer": null, "shape_area": 48.78, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "71 Donoso 1", "FNA": "Barrio Donoso 1", "GNA": "Barrio", "NAM": "Donoso 1", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7590687, -53.7930553 ], [ -67.7555294, -53.7947192 ], [ -67.7492276, -53.7908034 ], [ -67.7508296, -53.7898636 ], [ -67.7525311, -53.7890064 ], [ -67.7540994, -53.7899353 ], [ -67.7595927, -53.7872764 ], [ -67.7637679, -53.7869843 ], [ -67.7668702, -53.7890825 ], [ -67.7590687, -53.7930553 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 72, "nombre": "Chacra XII B", "layer": null, "shape_area": 34.3, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "72 Chacra XII B", "FNA": "Barrio Chacra XII B", "GNA": "Barrio", "NAM": "Chacra XII B", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7597501, -53.7929511 ], [ -67.769449, -53.799716 ], [ -67.7652977, -53.8017763 ], [ -67.7558576, -53.7949547 ], [ -67.7597501, -53.7929511 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 73, "nombre": "Chacra XIV", "layer": null, "shape_area": 71.11, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "73 Chacra XIV", "FNA": "Barrio Chacra XIV", "GNA": "Barrio", "NAM": "Chacra XIV", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7625798, -53.8033739 ], [ -67.7743717, -53.7976835 ], [ -67.7775876, -53.7969445 ], [ -67.7778664, -53.8022034 ], [ -67.7772115, -53.8052693 ], [ -67.777276, -53.8077487 ], [ -67.7712399, -53.8068612 ], [ -67.7681101, -53.8064752 ], [ -67.7669865, -53.8059284 ], [ -67.7625798, -53.8033739 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 74, "nombre": "Chacra XII A", "layer": null, "shape_area": 58.9, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "74 Chacra XII A", "FNA": "Barrio Chacra XII A", "GNA": "Barrio", "NAM": "Chacra XII A", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7741205, -53.7974948 ], [ -67.7699792, -53.7996052 ], [ -67.7695173, -53.7993682 ], [ -67.7598971, -53.7926335 ], [ -67.7668702, -53.7890825 ], [ -67.774193, -53.7940991 ], [ -67.7741205, -53.7974948 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 75, "nombre": "UOM NORTE", "layer": null, "shape_area": 5.05, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "75 UOM NORTE", "FNA": "Barrio UOM NORTE", "GNA": "Barrio", "NAM": "UOM NORTE", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7781462, -53.7966189 ], [ -67.774494, -53.7969346 ], [ -67.7741849, -53.7944754 ], [ -67.7764145, -53.79446 ], [ -67.7766479, -53.7955033 ], [ -67.7777707, -53.7955617 ], [ -67.7781462, -53.7966189 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 76, "nombre": "Los Cisnes", "layer": null, "shape_area": 10.01, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "76Los Cisnes", "FNA": "Barrio Los Cisnes", "GNA": "Barrio", "NAM": "Los Cisnes", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7848247, -53.7930075 ], [ -67.7783774, -53.794856 ], [ -67.7780615, -53.7941073 ], [ -67.7781977, -53.7931522 ], [ -67.7781657, -53.7921719 ], [ -67.7792003, -53.7918153 ], [ -67.7802919, -53.7916717 ], [ -67.7813051, -53.7912351 ], [ -67.7818947, -53.7911115 ], [ -67.7820939, -53.7913386 ], [ -67.7824928, -53.7920522 ], [ -67.7837769, -53.7923685 ], [ -67.7848247, -53.7930075 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 77, "nombre": "Vapor Amadeo", "layer": null, "shape_area": 48.03, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "77 Vapor Amadeo", "FNA": "Barrio Vapor Amadeo", "GNA": "Barrio", "NAM": "Vapor Amadeo", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7849693, -53.7931168 ], [ -67.7864864, -53.7939575 ], [ -67.7855607, -53.7942904 ], [ -67.7857532, -53.7947502 ], [ -67.7854268, -53.7950814 ], [ -67.7850772, -53.7957561 ], [ -67.7853868, -53.7969971 ], [ -67.7857172, -53.7977991 ], [ -67.7865898, -53.7983862 ], [ -67.7879802, -53.7983238 ], [ -67.7874649, -53.7990688 ], [ -67.7878053, -53.8002522 ], [ -67.7877518, -53.8009128 ], [ -67.7871768, -53.8013492 ], [ -67.7865613, -53.8017212 ], [ -67.7859173, -53.8019865 ], [ -67.7846711, -53.8018988 ], [ -67.7837853, -53.8020366 ], [ -67.7834709, -53.8025851 ], [ -67.7829998, -53.8028069 ], [ -67.7823778, -53.8036711 ], [ -67.7823467, -53.8051899 ], [ -67.7817096, -53.8072026 ], [ -67.7813402, -53.8073739 ], [ -67.7804032, -53.8065469 ], [ -67.779796, -53.806003 ], [ -67.7806348, -53.7986317 ], [ -67.7784826, -53.7949503 ], [ -67.7849693, -53.7931168 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 78, "nombre": "Centro", "layer": null, "shape_area": 190.74, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "78 Centro", "FNA": "Barrio Centro", "GNA": "Barrio", "NAM": "Centro", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.7140797, -53.7798904 ], [ -67.7264759, -53.7883446 ], [ -67.7238747, -53.7898069 ], [ -67.7216003, -53.7882098 ], [ -67.7192868, -53.789365 ], [ -67.7179073, -53.7900854 ], [ -67.7189025, -53.7907716 ], [ -67.7147715, -53.7928726 ], [ -67.7177477, -53.7949262 ], [ -67.7161479, -53.7957556 ], [ -67.7111077, -53.7922782 ], [ -67.7098001, -53.7929442 ], [ -67.7075442, -53.7915966 ], [ -67.704709, -53.7928583 ], [ -67.7038106, -53.7922557 ], [ -67.6991657, -53.7943386 ], [ -67.6982117, -53.7936946 ], [ -67.693301, -53.7903403 ], [ -67.6925685, -53.789618 ], [ -67.6920071, -53.7897461 ], [ -67.6922449, -53.7874408 ], [ -67.6927589, -53.7872839 ], [ -67.6930569, -53.786423 ], [ -67.6942741, -53.7867498 ], [ -67.6962313, -53.7856852 ], [ -67.6966358, -53.7854799 ], [ -67.6956557, -53.7847364 ], [ -67.6992706, -53.7791698 ], [ -67.7058787, -53.7836532 ], [ -67.7123668, -53.7878982 ], [ -67.7176141, -53.7852751 ], [ -67.7116516, -53.7810145 ], [ -67.7140797, -53.7798904 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 79, "nombre": "AGP A", "layer": null, "shape_area": 11.34, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "79 AGP A", "FNA": "Barrio AGP A", "GNA": "Barrio", "NAM": "AGP A", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.6892118, -53.7956304 ], [ -67.6890985, -53.795081 ], [ -67.6890173, -53.7945151 ], [ -67.6887217, -53.7930015 ], [ -67.6911261, -53.7914757 ], [ -67.6916865, -53.7927537 ], [ -67.692628, -53.7938058 ], [ -67.6952051, -53.7958551 ], [ -67.6939842, -53.79573 ], [ -67.6927595, -53.7958509 ], [ -67.6913717, -53.7962909 ], [ -67.6892118, -53.7956304 ] ] ] } }
-{ "type": "Feature", "properties": { "id": 80, "nombre": "CAP", "layer": null, "shape_area": 28.62, "Observacio": "Municipio de RG- Recolecto SPE-05-2020", "etiqueta": "80 CAP", "FNA": "Barrio CAP", "GNA": "Barrio", "NAM": "CAP", "SAG": "IT_DGOT_SPE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -67.6729616, -53.7998618 ], [ -67.6781207, -53.8051915 ], [ -67.6760422, -53.8058787 ], [ -67.6740867, -53.8060385 ], [ -67.6712599, -53.8062751 ], [ -67.6707683, -53.8047937 ], [ -67.6702363, -53.8033182 ], [ -67.6685067, -53.8036734 ], [ -67.6672467, -53.800954 ], [ -67.6729616, -53.7998618 ] ] ] } }
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "nombre": "25 de Mayo",
+        "layer": "b_25mayol",
+        "shape_area": 3.92,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "1  25 de Mayo",
+        "FNA": "Barrio 25 de Mayo",
+        "GNA": "Barrio",
+        "NAM": "25 de Mayo",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7193983,
+              -53.789325
+            ],
+            [
+              -67.7224125,
+              -53.791378
+            ],
+            [
+              -67.7209215,
+              -53.7921321
+            ],
+            [
+              -67.7179073,
+              -53.7900854
+            ],
+            [
+              -67.7193983,
+              -53.789325
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "nombre": "2 de Abril",
+        "layer": "b_2abril",
+        "shape_area": 7.12,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "2  2 de Abril",
+        "FNA": "Barrio 2 de Abril",
+        "GNA": "Barrio",
+        "NAM": "2 de Abril",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.716824,
+              -53.7942293
+            ],
+            [
+              -67.7148396,
+              -53.7928797
+            ],
+            [
+              -67.7189371,
+              -53.7907634
+            ],
+            [
+              -67.7209,
+              -53.7921321
+            ],
+            [
+              -67.716824,
+              -53.7942293
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "nombre": "8 de Octubre",
+        "layer": "b_8octub",
+        "shape_area": 1.9,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "3  8 de Octubre",
+        "FNA": "Barrio 8 de Octubre",
+        "GNA": "Barrio",
+        "NAM": "8 de Octubre",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7291203,
+              -53.7699741
+            ],
+            [
+              -67.7276722,
+              -53.7706968
+            ],
+            [
+              -67.727093,
+              -53.7688266
+            ],
+            [
+              -67.7286269,
+              -53.7686554
+            ],
+            [
+              -67.7290559,
+              -53.7699297
+            ],
+            [
+              -67.7291203,
+              -53.7699741
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "nombre": "Aeroposta",
+        "layer": "b_aeroposta",
+        "shape_area": 6.33,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "4 Aeroposta",
+        "FNA": "Barrio Aeroposta",
+        "GNA": "Barrio",
+        "NAM": "Aeroposta",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.6646441,
+              -53.7994931
+            ],
+            [
+              -67.6662243,
+              -53.8024951
+            ],
+            [
+              -67.6655723,
+              -53.80258
+            ],
+            [
+              -67.6648983,
+              -53.8027105
+            ],
+            [
+              -67.6635833,
+              -53.8029128
+            ],
+            [
+              -67.6619479,
+              -53.7999434
+            ],
+            [
+              -67.663296,
+              -53.7997346
+            ],
+            [
+              -67.6646441,
+              -53.7994931
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "nombre": "Aeropuerto",
+        "layer": "b_aerpuerto",
+        "shape_area": 19.68,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "5 Aeropuerto",
+        "FNA": "Barrio Aeropuerto",
+        "GNA": "Barrio",
+        "NAM": "Aeropuerto",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7561983,
+              -53.7870158
+            ],
+            [
+              -67.7581432,
+              -53.7868133
+            ],
+            [
+              -67.7588456,
+              -53.7873943
+            ],
+            [
+              -67.7540994,
+              -53.7899353
+            ],
+            [
+              -67.7526636,
+              -53.7889396
+            ],
+            [
+              -67.7509556,
+              -53.7896731
+            ],
+            [
+              -67.7492498,
+              -53.7906558
+            ],
+            [
+              -67.7453541,
+              -53.7876504
+            ],
+            [
+              -67.7492903,
+              -53.7872042
+            ],
+            [
+              -67.7535945,
+              -53.7870708
+            ],
+            [
+              -67.7561983,
+              -53.7870158
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "nombre": "AGP",
+        "layer": "b_agp",
+        "shape_area": 18.25,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "6 AGP",
+        "FNA": "Barrio AGP",
+        "GNA": "Barrio",
+        "NAM": "AGP",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.6890052,
+              -53.7950775
+            ],
+            [
+              -67.6893056,
+              -53.7994368
+            ],
+            [
+              -67.6887692,
+              -53.7995382
+            ],
+            [
+              -67.6881684,
+              -53.8008687
+            ],
+            [
+              -67.6861087,
+              -53.7998297
+            ],
+            [
+              -67.6855509,
+              -53.7996903
+            ],
+            [
+              -67.6845854,
+              -53.7990947
+            ],
+            [
+              -67.6833839,
+              -53.7991581
+            ],
+            [
+              -67.682397,
+              -53.7994749
+            ],
+            [
+              -67.6822253,
+              -53.7993608
+            ],
+            [
+              -67.681882,
+              -53.7982203
+            ],
+            [
+              -67.6819249,
+              -53.7981316
+            ],
+            [
+              -67.688619,
+              -53.7945833
+            ],
+            [
+              -67.6890052,
+              -53.7950775
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "nombre": "Alem",
+        "layer": "b_alem",
+        "shape_area": 7.49,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "7 Alem",
+        "FNA": "Barrio Alem",
+        "GNA": "Barrio",
+        "NAM": "Alem",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7178989,
+              -53.7643336
+            ],
+            [
+              -67.7189289,
+              -53.7676946
+            ],
+            [
+              -67.7164399,
+              -53.7679799
+            ],
+            [
+              -67.7162146,
+              -53.7680624
+            ],
+            [
+              -67.7141869,
+              -53.7665975
+            ],
+            [
+              -67.7147769,
+              -53.7662044
+            ],
+            [
+              -67.7156138,
+              -53.7654814
+            ],
+            [
+              -67.7178024,
+              -53.7642892
+            ],
+            [
+              -67.7178989,
+              -53.7643336
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "nombre": "Almafuerte",
+        "layer": "b_almafue",
+        "shape_area": 6.56,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "8 Almafuerte",
+        "FNA": "Barrio Almafuerte",
+        "GNA": "Barrio",
+        "NAM": "Almafuerte",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7216003,
+              -53.7882098
+            ],
+            [
+              -67.7238747,
+              -53.7898069
+            ],
+            [
+              -67.725366,
+              -53.7890464
+            ],
+            [
+              -67.7260312,
+              -53.7895091
+            ],
+            [
+              -67.7224049,
+              -53.791366
+            ],
+            [
+              -67.7193902,
+              -53.7893189
+            ],
+            [
+              -67.7216003,
+              -53.7882098
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "nombre": "La Antena",
+        "layer": "b_antena",
+        "shape_area": 0.51,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "9 La Antena",
+        "FNA": "Barrio La Antena",
+        "GNA": "Barrio",
+        "NAM": "La Antena",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.6972133,
+              -53.7962157
+            ],
+            [
+              -67.6972991,
+              -53.7972549
+            ],
+            [
+              -67.695883,
+              -53.7962664
+            ],
+            [
+              -67.6972133,
+              -53.7962157
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "nombre": "Austral",
+        "layer": "b_austral",
+        "shape_area": 4.55,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "10 Austral",
+        "FNA": "Barrio Austral",
+        "GNA": "Barrio",
+        "NAM": "Austral",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.6662088,
+              -53.8024776
+            ],
+            [
+              -67.6673138,
+              -53.8045811
+            ],
+            [
+              -67.6647605,
+              -53.8051386
+            ],
+            [
+              -67.6635481,
+              -53.8029211
+            ],
+            [
+              -67.6648785,
+              -53.8027057
+            ],
+            [
+              -67.6662088,
+              -53.8024776
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "nombre": "Tte. Bernhardt",
+        "layer": "b_bernhardt",
+        "shape_area": 8.87,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "11 Tte. Bernhardt",
+        "FNA": "Barrio Tte. Bernhardt",
+        "GNA": "Barrio",
+        "NAM": "Tte. Bernhardt",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7314871,
+              -53.7662318
+            ],
+            [
+              -67.7351241,
+              -53.7687367
+            ],
+            [
+              -67.7335899,
+              -53.7695737
+            ],
+            [
+              -67.73256,
+              -53.7700746
+            ],
+            [
+              -67.7292018,
+              -53.7717994
+            ],
+            [
+              -67.7277856,
+              -53.7708102
+            ],
+            [
+              -67.7293091,
+              -53.770119
+            ],
+            [
+              -67.7299529,
+              -53.7697259
+            ],
+            [
+              -67.7299636,
+              -53.7696371
+            ],
+            [
+              -67.7311438,
+              -53.7690854
+            ],
+            [
+              -67.7322703,
+              -53.7685084
+            ],
+            [
+              -67.7322488,
+              -53.768502
+            ],
+            [
+              -67.7314871,
+              -53.7662318
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "nombre": "Bischof",
+        "layer": "b_bischof",
+        "shape_area": 6.4,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "12 Bischof",
+        "FNA": "Barrio Bischof",
+        "GNA": "Barrio",
+        "NAM": "Bischof",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7260246,
+              -53.7895246
+            ],
+            [
+              -67.7280197,
+              -53.7908933
+            ],
+            [
+              -67.7243727,
+              -53.7927498
+            ],
+            [
+              -67.7223561,
+              -53.7913939
+            ],
+            [
+              -67.7260246,
+              -53.7895246
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "nombre": "Ex. Frig. (CAP)",
+        "layer": "b_cap",
+        "shape_area": 6.87,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "13 Ex. Frig. (CAP)",
+        "FNA": "Barrio Ex. Frig. (CAP)",
+        "GNA": "Barrio",
+        "NAM": "Ex. Frig. (CAP)",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.6656684,
+              -53.8014406
+            ],
+            [
+              -67.6670913,
+              -53.8009884
+            ],
+            [
+              -67.6685067,
+              -53.8036734
+            ],
+            [
+              -67.6702363,
+              -53.8033182
+            ],
+            [
+              -67.6707683,
+              -53.8047937
+            ],
+            [
+              -67.668016,
+              -53.8054611
+            ],
+            [
+              -67.6673102,
+              -53.8045821
+            ],
+            [
+              -67.6656684,
+              -53.8014406
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "nombre": "ARA Gral. Belgrano",
+        "layer": "b_caragb",
+        "shape_area": 3.31,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "14ARA  Gral. Belgrano",
+        "FNA": "Barrio ARA Gral. Belgrano",
+        "GNA": "Barrio",
+        "NAM": "ARA Gral. Belgrano",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7292593,
+              -53.7728664
+            ],
+            [
+              -67.7316195,
+              -53.7745275
+            ],
+            [
+              -67.7315552,
+              -53.7745592
+            ],
+            [
+              -67.7295168,
+              -53.7745275
+            ],
+            [
+              -67.7288838,
+              -53.7745022
+            ],
+            [
+              -67.7274999,
+              -53.7744895
+            ],
+            [
+              -67.7269849,
+              -53.7744641
+            ],
+            [
+              -67.7267596,
+              -53.7744324
+            ],
+            [
+              -67.7264592,
+              -53.7742866
+            ],
+            [
+              -67.7292593,
+              -53.7728664
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "nombre": "Cabo Domingo",
+        "layer": "b_cdomin",
+        "shape_area": 6.87,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "15 Cabo Domingo",
+        "FNA": "Barrio Cabo Domingo",
+        "GNA": "Barrio",
+        "NAM": "Cabo Domingo",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7229199,
+              -53.7672158
+            ],
+            [
+              -67.7214286,
+              -53.7673617
+            ],
+            [
+              -67.7199159,
+              -53.7675709
+            ],
+            [
+              -67.7197657,
+              -53.7670763
+            ],
+            [
+              -67.7191113,
+              -53.7651168
+            ],
+            [
+              -67.7189181,
+              -53.7646095
+            ],
+            [
+              -67.7204309,
+              -53.7644192
+            ],
+            [
+              -67.7219758,
+              -53.7642353
+            ],
+            [
+              -67.7226624,
+              -53.7662266
+            ],
+            [
+              -67.7229199,
+              -53.7672158
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "nombre": "CGT",
+        "layer": "b_cgt",
+        "shape_area": 12.56,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "16 CGT",
+        "FNA": "Barrio CGT",
+        "GNA": "Barrio",
+        "NAM": "CGT",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7285635,
+              -53.7601191
+            ],
+            [
+              -67.7291536,
+              -53.7604996
+            ],
+            [
+              -67.7303659,
+              -53.7612417
+            ],
+            [
+              -67.7326511,
+              -53.7627447
+            ],
+            [
+              -67.7320718,
+              -53.7630555
+            ],
+            [
+              -67.729057,
+              -53.7645776
+            ],
+            [
+              -67.7249908,
+              -53.7617427
+            ],
+            [
+              -67.7272975,
+              -53.7605821
+            ],
+            [
+              -67.7285635,
+              -53.7601191
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "nombre": "Cacra XI",
+        "layer": "b_chacra11",
+        "shape_area": 38.58,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "17 Cacra XI",
+        "FNA": "Barrio Cacra XI",
+        "GNA": "Barrio",
+        "NAM": "Cacra XI",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7761233,
+              -53.7893254
+            ],
+            [
+              -67.7760492,
+              -53.7892962
+            ],
+            [
+              -67.7761225,
+              -53.7893271
+            ],
+            [
+              -67.7761136,
+              -53.7893469
+            ],
+            [
+              -67.7741609,
+              -53.7939861
+            ],
+            [
+              -67.773603,
+              -53.7936693
+            ],
+            [
+              -67.7698479,
+              -53.7910962
+            ],
+            [
+              -67.763475,
+              -53.7867862
+            ],
+            [
+              -67.7648698,
+              -53.7867102
+            ],
+            [
+              -67.7669726,
+              -53.7866595
+            ],
+            [
+              -67.7690325,
+              -53.7865834
+            ],
+            [
+              -67.7730666,
+              -53.7865327
+            ],
+            [
+              -67.7747617,
+              -53.7865834
+            ],
+            [
+              -67.7763281,
+              -53.7863679
+            ],
+            [
+              -67.77665,
+              -53.7863172
+            ],
+            [
+              -67.7775083,
+              -53.7862538
+            ],
+            [
+              -67.7761233,
+              -53.7893254
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "nombre": "Chacra XIII",
+        "layer": "b_chacra13",
+        "shape_area": 89.97,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "18 Chacra XIII",
+        "FNA": "Barrio Chacra XIII",
+        "GNA": "Barrio",
+        "NAM": "Chacra XIII",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7553904,
+              -53.7948723
+            ],
+            [
+              -67.765411,
+              -53.8018553
+            ],
+            [
+              -67.7580297,
+              -53.8058088
+            ],
+            [
+              -67.7565706,
+              -53.8056695
+            ],
+            [
+              -67.7540815,
+              -53.805264
+            ],
+            [
+              -67.7523864,
+              -53.8048585
+            ],
+            [
+              -67.7512492,
+              -53.8044657
+            ],
+            [
+              -67.749554,
+              -53.8036547
+            ],
+            [
+              -67.7487816,
+              -53.8031478
+            ],
+            [
+              -67.7446832,
+              -53.8003853
+            ],
+            [
+              -67.7553904,
+              -53.7948723
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "nombre": "Costanera",
+        "layer": "b_costaner",
+        "shape_area": 5.99,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "19 Costanera",
+        "FNA": "Barrio Costanera",
+        "GNA": "Barrio",
+        "NAM": "Costanera",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.700744,
+              -53.793841
+            ],
+            [
+              -67.7036944,
+              -53.7958626
+            ],
+            [
+              -67.6989094,
+              -53.7960464
+            ],
+            [
+              -67.69671,
+              -53.7961287
+            ],
+            [
+              -67.6959483,
+              -53.7961921
+            ],
+            [
+              -67.6971713,
+              -53.7955964
+            ],
+            [
+              -67.6994244,
+              -53.7945064
+            ],
+            [
+              -67.700744,
+              -53.793841
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "nombre": "Cabo Peña",
+        "layer": "b_cpena",
+        "shape_area": 11.88,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "20 Cabo Peña",
+        "FNA": "Barrio Cabo Peña",
+        "GNA": "Barrio",
+        "NAM": "Cabo Peña",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.6635513,
+              -53.8029012
+            ],
+            [
+              -67.6647621,
+              -53.8051636
+            ],
+            [
+              -67.6602008,
+              -53.8061777
+            ],
+            [
+              -67.6589778,
+              -53.8064311
+            ],
+            [
+              -67.6570252,
+              -53.8041376
+            ],
+            [
+              -67.6578835,
+              -53.8038968
+            ],
+            [
+              -67.6610806,
+              -53.803352
+            ],
+            [
+              -67.6626437,
+              -53.8031051
+            ],
+            [
+              -67.6635513,
+              -53.8029012
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "nombre": "Danés",
+        "layer": "b_danes",
+        "shape_area": 11.25,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "21 Danés",
+        "FNA": "Barrio Danés",
+        "GNA": "Barrio",
+        "NAM": "Danés",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7292318,
+              -53.7902977
+            ],
+            [
+              -67.7312377,
+              -53.7916663
+            ],
+            [
+              -67.7249305,
+              -53.7949231
+            ],
+            [
+              -67.7228925,
+              -53.7935102
+            ],
+            [
+              -67.7292318,
+              -53.7902977
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "nombre": "Don Bosco",
+        "layer": "b_donbosco",
+        "shape_area": 22.45,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "22 Don Bosco",
+        "FNA": "Barrio Don Bosco",
+        "GNA": "Barrio",
+        "NAM": "Don Bosco",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7140307,
+              -53.7828156
+            ],
+            [
+              -67.7176141,
+              -53.7852751
+            ],
+            [
+              -67.7124214,
+              -53.7878992
+            ],
+            [
+              -67.7063489,
+              -53.7837158
+            ],
+            [
+              -67.7091384,
+              -53.7822832
+            ],
+            [
+              -67.7117133,
+              -53.7840074
+            ],
+            [
+              -67.7140307,
+              -53.7828156
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "nombre": "Esther Acosta",
+        "layer": "b_eacosta",
+        "shape_area": 1.14,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "23 Esther Acosta",
+        "FNA": "Barrio Esther Acosta",
+        "GNA": "Barrio",
+        "NAM": "Esther Acosta",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7229078,
+              -53.7672429
+            ],
+            [
+              -67.7232296,
+              -53.7682512
+            ],
+            [
+              -67.7217491,
+              -53.7684161
+            ],
+            [
+              -67.7214272,
+              -53.7673951
+            ],
+            [
+              -67.7229078,
+              -53.7672429
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "nombre": "Ecológico",
+        "layer": "b_ecolog",
+        "shape_area": 8.21,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "24 Ecológico",
+        "FNA": "Barrio Ecológico",
+        "GNA": "Barrio",
+        "NAM": "Ecológico",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.6588944,
+              -53.8026302
+            ],
+            [
+              -67.6594321,
+              -53.8036438
+            ],
+            [
+              -67.6586548,
+              -53.803765
+            ],
+            [
+              -67.6578563,
+              -53.803927
+            ],
+            [
+              -67.6570302,
+              -53.8041044
+            ],
+            [
+              -67.6562363,
+              -53.8031287
+            ],
+            [
+              -67.6554424,
+              -53.8022227
+            ],
+            [
+              -67.6546485,
+              -53.8012279
+            ],
+            [
+              -67.6563651,
+              -53.8009048
+            ],
+            [
+              -67.6571804,
+              -53.8007717
+            ],
+            [
+              -67.6587977,
+              -53.8004875
+            ],
+            [
+              -67.659757,
+              -53.8024823
+            ],
+            [
+              -67.6588944,
+              -53.8026302
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "nombre": "Elcano",
+        "layer": "b_elcano",
+        "shape_area": 4.56,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "25 Elcano",
+        "FNA": "Barrio Elcano",
+        "GNA": "Barrio",
+        "NAM": "Elcano",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.6968637,
+              -53.7824792
+            ],
+            [
+              -67.6954047,
+              -53.7847356
+            ],
+            [
+              -67.6964346,
+              -53.7854962
+            ],
+            [
+              -67.6943319,
+              -53.7865736
+            ],
+            [
+              -67.6931519,
+              -53.7863455
+            ],
+            [
+              -67.6944392,
+              -53.7845328
+            ],
+            [
+              -67.6958338,
+              -53.7821876
+            ],
+            [
+              -67.6968637,
+              -53.7824792
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "nombre": "Esperanza",
+        "layer": "b_esperanz",
+        "shape_area": 1.11,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "26 Esperanza",
+        "FNA": "Barrio Esperanza",
+        "GNA": "Barrio",
+        "NAM": "Esperanza",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7178332,
+              -53.7949454
+            ],
+            [
+              -67.7188095,
+              -53.7956108
+            ],
+            [
+              -67.7176508,
+              -53.7962127
+            ],
+            [
+              -67.7173504,
+              -53.7961367
+            ],
+            [
+              -67.7165029,
+              -53.7955854
+            ],
+            [
+              -67.7178332,
+              -53.7949454
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "nombre": "Evita",
+        "layer": "b_evita",
+        "shape_area": 11.95,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "27 Evita",
+        "FNA": "Barrio Evita",
+        "GNA": "Barrio",
+        "NAM": "Evita",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7177151,
+              -53.7962506
+            ],
+            [
+              -67.7235086,
+              -53.7983544
+            ],
+            [
+              -67.7236802,
+              -53.7984558
+            ],
+            [
+              -67.723899,
+              -53.7989979
+            ],
+            [
+              -67.7239377,
+              -53.7998372
+            ],
+            [
+              -67.7277141,
+              -53.8020929
+            ],
+            [
+              -67.7269202,
+              -53.8026378
+            ],
+            [
+              -67.7237231,
+              -53.8010284
+            ],
+            [
+              -67.7166852,
+              -53.796821
+            ],
+            [
+              -67.7177151,
+              -53.7962506
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "nombre": "Gaucho Argentino",
+        "layer": "b_gargenti",
+        "shape_area": 1.79,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "28 Gaucho Argentino",
+        "FNA": "Barrio Gaucho Argentino",
+        "GNA": "Barrio",
+        "NAM": "Gaucho Argentino",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.724163,
+              -53.7681497
+            ],
+            [
+              -67.7244634,
+              -53.7691262
+            ],
+            [
+              -67.7235622,
+              -53.769234
+            ],
+            [
+              -67.7220602,
+              -53.7693862
+            ],
+            [
+              -67.7217383,
+              -53.7684161
+            ],
+            [
+              -67.7232511,
+              -53.7682512
+            ],
+            [
+              -67.724163,
+              -53.7681497
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "nombre": "Independencia",
+        "layer": "b_independ",
+        "shape_area": 15.72,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "29 Independencia",
+        "FNA": "Barrio Independencia",
+        "GNA": "Barrio",
+        "NAM": "Independencia",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7278739,
+              -53.7969406
+            ],
+            [
+              -67.7237972,
+              -53.7990506
+            ],
+            [
+              -67.7236792,
+              -53.798512
+            ],
+            [
+              -67.7235397,
+              -53.7983726
+            ],
+            [
+              -67.7204822,
+              -53.7972257
+            ],
+            [
+              -67.7173066,
+              -53.7961358
+            ],
+            [
+              -67.7161479,
+              -53.7957556
+            ],
+            [
+              -67.7178001,
+              -53.7949382
+            ],
+            [
+              -67.71883,
+              -53.7955972
+            ],
+            [
+              -67.7201603,
+              -53.7949128
+            ],
+            [
+              -67.7221772,
+              -53.7962942
+            ],
+            [
+              -67.7249022,
+              -53.7948748
+            ],
+            [
+              -67.7278739,
+              -53.7969406
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "nombre": "Intevu",
+        "layer": "b_intevu",
+        "shape_area": 13.33,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "30 Intevu",
+        "FNA": "Barrio Intevu",
+        "GNA": "Barrio",
+        "NAM": "Intevu",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7249139,
+              -53.7948984
+            ],
+            [
+              -67.7221674,
+              -53.7962989
+            ],
+            [
+              -67.7211589,
+              -53.7956018
+            ],
+            [
+              -67.7198178,
+              -53.7963115
+            ],
+            [
+              -67.716803,
+              -53.794233
+            ],
+            [
+              -67.7209121,
+              -53.7921162
+            ],
+            [
+              -67.7249139,
+              -53.7948984
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "nombre": "Jardín",
+        "layer": "b_jardin",
+        "shape_area": 4.81,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "31 Jardín",
+        "FNA": "Barrio Jardín",
+        "GNA": "Barrio",
+        "NAM": "Jardín",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7291431,
+              -53.7699996
+            ],
+            [
+              -67.7255279,
+              -53.7718382
+            ],
+            [
+              -67.7254099,
+              -53.7718636
+            ],
+            [
+              -67.7252275,
+              -53.771965
+            ],
+            [
+              -67.7244336,
+              -53.7720665
+            ],
+            [
+              -67.7238651,
+              -53.7702088
+            ],
+            [
+              -67.7248091,
+              -53.7700947
+            ],
+            [
+              -67.7249807,
+              -53.7700947
+            ],
+            [
+              -67.7289714,
+              -53.7696318
+            ],
+            [
+              -67.729068,
+              -53.7699108
+            ],
+            [
+              -67.7291431,
+              -53.7699996
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "nombre": "J.L.Borges",
+        "layer": "b_jlborges",
+        "shape_area": 2.35,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "32 J.L.Borges",
+        "FNA": "Barrio J.L.Borges",
+        "GNA": "Barrio",
+        "NAM": "J.L.Borges",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7264612,
+              -53.7668166
+            ],
+            [
+              -67.7279952,
+              -53.7666644
+            ],
+            [
+              -67.7283278,
+              -53.7676472
+            ],
+            [
+              -67.7286496,
+              -53.7686491
+            ],
+            [
+              -67.7270941,
+              -53.7688329
+            ],
+            [
+              -67.7264612,
+              -53.7668166
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "nombre": "Juan M. de Rosas",
+        "layer": "b_jmrosas",
+        "shape_area": 9.3,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "33 Juan M. de Rosas",
+        "FNA": "Barrio Juan M. de Rosas",
+        "GNA": "Barrio",
+        "NAM": "Juan M. de Rosas",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7110487,
+              -53.7955816
+            ],
+            [
+              -67.7065329,
+              -53.7957527
+            ],
+            [
+              -67.7034973,
+              -53.7936428
+            ],
+            [
+              -67.7062218,
+              -53.7922932
+            ],
+            [
+              -67.7072623,
+              -53.7929965
+            ],
+            [
+              -67.7082813,
+              -53.7937125
+            ],
+            [
+              -67.709311,
+              -53.7944348
+            ],
+            [
+              -67.7103622,
+              -53.7951571
+            ],
+            [
+              -67.7110487,
+              -53.7955816
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "nombre": "Kau Kren",
+        "layer": "b_kaukren",
+        "shape_area": 3.47,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "34 Kau Kren",
+        "FNA": "Barrio Kau Kren",
+        "GNA": "Barrio",
+        "NAM": "Kau Kren",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7308176,
+              -53.7942701
+            ],
+            [
+              -67.7318366,
+              -53.7949607
+            ],
+            [
+              -67.7279,
+              -53.7969628
+            ],
+            [
+              -67.7268917,
+              -53.7962849
+            ],
+            [
+              -67.7308176,
+              -53.7942701
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "nombre": "La Costa",
+        "layer": "b_lacosta",
+        "shape_area": 5.58,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "35 La Costa",
+        "FNA": "Barrio La Costa",
+        "GNA": "Barrio",
+        "NAM": "La Costa",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.6955712,
+              -53.7821462
+            ],
+            [
+              -67.6941122,
+              -53.7844789
+            ],
+            [
+              -67.6928891,
+              -53.7862917
+            ],
+            [
+              -67.692578,
+              -53.7867544
+            ],
+            [
+              -67.6923205,
+              -53.7872678
+            ],
+            [
+              -67.6920523,
+              -53.7871981
+            ],
+            [
+              -67.6914837,
+              -53.7850494
+            ],
+            [
+              -67.69246,
+              -53.7841176
+            ],
+            [
+              -67.6931895,
+              -53.7834901
+            ],
+            [
+              -67.6937688,
+              -53.7827674
+            ],
+            [
+              -67.6947451,
+              -53.7819624
+            ],
+            [
+              -67.6955712,
+              -53.7821462
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "nombre": null,
+        "layer": "b_lavega",
+        "shape_area": 4.85,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "36 La Vega",
+        "FNA": null,
+        "GNA": "Barrio",
+        "NAM": null,
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7075442,
+              -53.7915966
+            ],
+            [
+              -67.711664,
+              -53.7944611
+            ],
+            [
+              -67.710398,
+              -53.7951709
+            ],
+            [
+              -67.7062353,
+              -53.7922937
+            ],
+            [
+              -67.7075442,
+              -53.7915966
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 37,
+        "nombre": "Loffler",
+        "layer": "b_loffler",
+        "shape_area": 5.77,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "37 Loffler",
+        "FNA": "Barrio Loffler",
+        "GNA": "Barrio",
+        "NAM": "Loffler",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7040359,
+              -53.7958426
+            ],
+            [
+              -67.7008709,
+              -53.7937577
+            ],
+            [
+              -67.7038106,
+              -53.7922557
+            ],
+            [
+              -67.7048405,
+              -53.7929465
+            ],
+            [
+              -67.70336,
+              -53.7937006
+            ],
+            [
+              -67.7063318,
+              -53.7957349
+            ],
+            [
+              -67.7040359,
+              -53.7958426
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 38,
+        "nombre": "Los Alamos",
+        "layer": "b_losalamos",
+        "shape_area": 47.02,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "38 Los Alamos",
+        "FNA": "Barrio Los Alamos",
+        "GNA": "Barrio",
+        "NAM": "Los Alamos",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7273064,
+              -53.7873818
+            ],
+            [
+              -67.7262979,
+              -53.787217
+            ],
+            [
+              -67.7253323,
+              -53.7869508
+            ],
+            [
+              -67.7247208,
+              -53.7865388
+            ],
+            [
+              -67.7230149,
+              -53.7854295
+            ],
+            [
+              -67.7213949,
+              -53.7843329
+            ],
+            [
+              -67.7202577,
+              -53.7835025
+            ],
+            [
+              -67.7145827,
+              -53.7795656
+            ],
+            [
+              -67.7185845,
+              -53.7776806
+            ],
+            [
+              -67.7254933,
+              -53.7822157
+            ],
+            [
+              -67.728787,
+              -53.7844343
+            ],
+            [
+              -67.7296876,
+              -53.7852593
+            ],
+            [
+              -67.7315924,
+              -53.7852368
+            ],
+            [
+              -67.7342555,
+              -53.7871181
+            ],
+            [
+              -67.7273064,
+              -53.7873818
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "nombre": "Los Lupinos",
+        "layer": "b_loslupinos",
+        "shape_area": 8.26,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "39 Los Lupinos",
+        "FNA": "Barrio Los Lupinos",
+        "GNA": "Barrio",
+        "NAM": "Los Lupinos",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.694554,
+              -53.7912422
+            ],
+            [
+              -67.6970321,
+              -53.7928518
+            ],
+            [
+              -67.6956697,
+              -53.7934855
+            ],
+            [
+              -67.6944145,
+              -53.7927124
+            ],
+            [
+              -67.6927839,
+              -53.7936059
+            ],
+            [
+              -67.6916953,
+              -53.7928109
+            ],
+            [
+              -67.6915289,
+              -53.791734
+            ],
+            [
+              -67.6910977,
+              -53.7914719
+            ],
+            [
+              -67.6912315,
+              -53.7908631
+            ],
+            [
+              -67.6921423,
+              -53.7899499
+            ],
+            [
+              -67.6927037,
+              -53.7899492
+            ],
+            [
+              -67.6932813,
+              -53.7903396
+            ],
+            [
+              -67.694554,
+              -53.7912422
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "nombre": "Los Pinares",
+        "layer": "b_lospinares",
+        "shape_area": 2.87,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "40 Los Pinares",
+        "FNA": "Barrio Los Pinares",
+        "GNA": "Barrio",
+        "NAM": "Los Pinares",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7320881,
+              -53.7714435
+            ],
+            [
+              -67.7332253,
+              -53.772236
+            ],
+            [
+              -67.7304145,
+              -53.7736816
+            ],
+            [
+              -67.7292452,
+              -53.7728827
+            ],
+            [
+              -67.7320881,
+              -53.7714435
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "nombre": "Marina",
+        "layer": "b_marina",
+        "shape_area": 5.24,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "41 Marina",
+        "FNA": "Barrio Marina",
+        "GNA": "Barrio",
+        "NAM": "Marina",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7114665,
+              -53.7810565
+            ],
+            [
+              -67.71402,
+              -53.7828125
+            ],
+            [
+              -67.7117026,
+              -53.7840105
+            ],
+            [
+              -67.7091384,
+              -53.7822483
+            ],
+            [
+              -67.7114665,
+              -53.7810565
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "nombre": "Mosconi",
+        "layer": "b_mosconi",
+        "shape_area": 2.28,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "42 Mosconi",
+        "FNA": "Barrio Mosconi",
+        "GNA": "Barrio",
+        "NAM": "Mosconi",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.6991379,
+              -53.7790816
+            ],
+            [
+              -67.6977433,
+              -53.7810213
+            ],
+            [
+              -67.6970568,
+              -53.7822003
+            ],
+            [
+              -67.6959625,
+              -53.7819848
+            ],
+            [
+              -67.6964989,
+              -53.7811734
+            ],
+            [
+              -67.6976146,
+              -53.7797662
+            ],
+            [
+              -67.697915,
+              -53.7794493
+            ],
+            [
+              -67.6991379,
+              -53.7790816
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 43,
+        "nombre": "Parque Industrial",
+        "layer": "b_parqueindustrial",
+        "shape_area": 155.86,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "43 Parque Industrial",
+        "FNA": "Barrio Parque Industrial",
+        "GNA": "Barrio",
+        "NAM": "Parque Industrial",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7346304,
+              -53.793685
+            ],
+            [
+              -67.7503788,
+              -53.8050522
+            ],
+            [
+              -67.7567526,
+              -53.8063118
+            ],
+            [
+              -67.7540763,
+              -53.8075674
+            ],
+            [
+              -67.7480086,
+              -53.8104654
+            ],
+            [
+              -67.7430172,
+              -53.8073276
+            ],
+            [
+              -67.740733,
+              -53.8067221
+            ],
+            [
+              -67.7303659,
+              -53.8037446
+            ],
+            [
+              -67.7240145,
+              -53.7998415
+            ],
+            [
+              -67.7238844,
+              -53.7989616
+            ],
+            [
+              -67.7346304,
+              -53.793685
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 44,
+        "nombre": "Peron I",
+        "layer": "b_peron1",
+        "shape_area": 5.47,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "44 Peron I",
+        "FNA": "Barrio Peron I",
+        "GNA": "Barrio",
+        "NAM": "Peron I",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7036194,
+              -53.7959361
+            ],
+            [
+              -67.7037588,
+              -53.7969816
+            ],
+            [
+              -67.702847,
+              -53.797045
+            ],
+            [
+              -67.7027826,
+              -53.797026
+            ],
+            [
+              -67.7019244,
+              -53.7970703
+            ],
+            [
+              -67.6982877,
+              -53.7972097
+            ],
+            [
+              -67.6972793,
+              -53.7972604
+            ],
+            [
+              -67.6958955,
+              -53.7962783
+            ],
+            [
+              -67.698985,
+              -53.7961325
+            ],
+            [
+              -67.6990172,
+              -53.7961262
+            ],
+            [
+              -67.7008838,
+              -53.7960628
+            ],
+            [
+              -67.7018171,
+              -53.7960185
+            ],
+            [
+              -67.7027397,
+              -53.7959868
+            ],
+            [
+              -67.7036194,
+              -53.7959361
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 45,
+        "nombre": "Peron II",
+        "layer": "b_peron2",
+        "shape_area": 6.37,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "45 Peron II",
+        "FNA": "Barrio Peron II",
+        "GNA": "Barrio",
+        "NAM": "Peron II",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7117535,
+              -53.7956004
+            ],
+            [
+              -67.7119252,
+              -53.7967663
+            ],
+            [
+              -67.711067,
+              -53.796703
+            ],
+            [
+              -67.7097904,
+              -53.7967536
+            ],
+            [
+              -67.7080418,
+              -53.796798
+            ],
+            [
+              -67.7063683,
+              -53.7968424
+            ],
+            [
+              -67.705553,
+              -53.7968804
+            ],
+            [
+              -67.7037614,
+              -53.7969818
+            ],
+            [
+              -67.7036434,
+              -53.7959046
+            ],
+            [
+              -67.7117535,
+              -53.7956004
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 46,
+        "nombre": "Profesionales",
+        "layer": "b_profesionales",
+        "shape_area": 9.46,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "46 Profesionales",
+        "FNA": "Barrio Profesionales",
+        "GNA": "Barrio",
+        "NAM": "Profesionales",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7033508,
+              -53.7724968
+            ],
+            [
+              -67.70275,
+              -53.7722686
+            ],
+            [
+              -67.7036083,
+              -53.7712414
+            ],
+            [
+              -67.7038443,
+              -53.7710004
+            ],
+            [
+              -67.7047026,
+              -53.7702268
+            ],
+            [
+              -67.7042091,
+              -53.7698337
+            ],
+            [
+              -67.706033,
+              -53.7683499
+            ],
+            [
+              -67.7069557,
+              -53.7676269
+            ],
+            [
+              -67.7076852,
+              -53.7669801
+            ],
+            [
+              -67.7083933,
+              -53.7666123
+            ],
+            [
+              -67.70908,
+              -53.7662445
+            ],
+            [
+              -67.7094662,
+              -53.7661684
+            ],
+            [
+              -67.7098095,
+              -53.7659908
+            ],
+            [
+              -67.7099168,
+              -53.7658259
+            ],
+            [
+              -67.7115476,
+              -53.7651284
+            ],
+            [
+              -67.7117836,
+              -53.7650523
+            ],
+            [
+              -67.7119553,
+              -53.7652298
+            ],
+            [
+              -67.7106786,
+              -53.7664664
+            ],
+            [
+              -67.7095842,
+              -53.7673733
+            ],
+            [
+              -67.7085435,
+              -53.7682294
+            ],
+            [
+              -67.7033508,
+              -53.7724968
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 47,
+        "nombre": "Progreso",
+        "layer": "b_progreso",
+        "shape_area": 3.47,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "47 Progreso",
+        "FNA": "Barrio Progreso",
+        "GNA": "Barrio",
+        "NAM": "Progreso",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.6982117,
+              -53.7936946
+            ],
+            [
+              -67.6994133,
+              -53.7945058
+            ],
+            [
+              -67.6958406,
+              -53.7962359
+            ],
+            [
+              -67.6953364,
+              -53.7958049
+            ],
+            [
+              -67.6948643,
+              -53.795393
+            ],
+            [
+              -67.6982117,
+              -53.7936946
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 48,
+        "nombre": "Provincia Fueguina",
+        "layer": "b_provfueguina",
+        "shape_area": 7.31,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "48 Provincia Fueguina",
+        "FNA": "Barrio Provincia Fueguina",
+        "GNA": "Barrio",
+        "NAM": "Provincia Fueguina",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7249157,
+              -53.7617037
+            ],
+            [
+              -67.7280592,
+              -53.7638917
+            ],
+            [
+              -67.7286493,
+              -53.7655976
+            ],
+            [
+              -67.7289497,
+              -53.7665616
+            ],
+            [
+              -67.7279841,
+              -53.7666757
+            ],
+            [
+              -67.7264714,
+              -53.7668152
+            ],
+            [
+              -67.726171,
+              -53.7658577
+            ],
+            [
+              -67.7255165,
+              -53.7638536
+            ],
+            [
+              -67.7252268,
+              -53.7628706
+            ],
+            [
+              -67.7250552,
+              -53.7623062
+            ],
+            [
+              -67.7249157,
+              -53.7617037
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 49,
+        "nombre": "Reconquista",
+        "layer": "b_reconquista",
+        "shape_area": 8.45,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "49 Reconquista",
+        "FNA": "Barrio Reconquista",
+        "GNA": "Barrio",
+        "NAM": "Reconquista",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.6635684,
+              -53.8029083
+            ],
+            [
+              -67.6626672,
+              -53.8030983
+            ],
+            [
+              -67.6618196,
+              -53.8032441
+            ],
+            [
+              -67.6610364,
+              -53.8033644
+            ],
+            [
+              -67.6602424,
+              -53.8034975
+            ],
+            [
+              -67.6594271,
+              -53.8036496
+            ],
+            [
+              -67.6589013,
+              -53.8026231
+            ],
+            [
+              -67.6597704,
+              -53.8024774
+            ],
+            [
+              -67.6592661,
+              -53.8015143
+            ],
+            [
+              -67.6587833,
+              -53.8004878
+            ],
+            [
+              -67.6596202,
+              -53.8003547
+            ],
+            [
+              -67.6604034,
+              -53.8002344
+            ],
+            [
+              -67.6619483,
+              -53.7999397
+            ],
+            [
+              -67.6635684,
+              -53.8029083
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 50,
+        "nombre": "San Cayetano",
+        "layer": "b_sancayetano",
+        "shape_area": 5.12,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "50 San Cayetano",
+        "FNA": "Barrio San Cayetano",
+        "GNA": "Barrio",
+        "NAM": "San Cayetano",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7111077,
+              -53.7922782
+            ],
+            [
+              -67.7151632,
+              -53.7950983
+            ],
+            [
+              -67.7145087,
+              -53.7954279
+            ],
+            [
+              -67.7141976,
+              -53.7954786
+            ],
+            [
+              -67.7132857,
+              -53.7955356
+            ],
+            [
+              -67.7127063,
+              -53.7951554
+            ],
+            [
+              -67.7096271,
+              -53.7930323
+            ],
+            [
+              -67.7111077,
+              -53.7922782
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 51,
+        "nombre": "San Martin",
+        "layer": "b_sanmartin",
+        "shape_area": 21.73,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "51 San Martin",
+        "FNA": "Barrio San Martin",
+        "GNA": "Barrio",
+        "NAM": "San Martin",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7334129,
+              -53.7876831
+            ],
+            [
+              -67.7351081,
+              -53.7876451
+            ],
+            [
+              -67.7395154,
+              -53.7877801
+            ],
+            [
+              -67.7446986,
+              -53.7876233
+            ],
+            [
+              -67.7454974,
+              -53.7881624
+            ],
+            [
+              -67.742496,
+              -53.789578
+            ],
+            [
+              -67.7369792,
+              -53.791766
+            ],
+            [
+              -67.7345394,
+              -53.7900346
+            ],
+            [
+              -67.7335953,
+              -53.7892613
+            ],
+            [
+              -67.7334451,
+              -53.7887479
+            ],
+            [
+              -67.7334129,
+              -53.7882092
+            ],
+            [
+              -67.7334129,
+              -53.7876831
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 52,
+        "nombre": "Santa Rosa",
+        "layer": "b_santarosa",
+        "shape_area": 5.83,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "52 Santa Rosa",
+        "FNA": "Barrio Santa Rosa",
+        "GNA": "Barrio",
+        "NAM": "Santa Rosa",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7224802,
+              -53.75995
+            ],
+            [
+              -67.7235317,
+              -53.7605969
+            ],
+            [
+              -67.7234244,
+              -53.760654
+            ],
+            [
+              -67.7248942,
+              -53.7616878
+            ],
+            [
+              -67.7225232,
+              -53.7619669
+            ],
+            [
+              -67.7223622,
+              -53.7619098
+            ],
+            [
+              -67.7222013,
+              -53.7619669
+            ],
+            [
+              -67.7213966,
+              -53.7624045
+            ],
+            [
+              -67.7199482,
+              -53.7631085
+            ],
+            [
+              -67.7186608,
+              -53.7621508
+            ],
+            [
+              -67.7200019,
+              -53.7614595
+            ],
+            [
+              -67.7217936,
+              -53.7604067
+            ],
+            [
+              -67.7224802,
+              -53.75995
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 53,
+        "nombre": "Telkien",
+        "layer": "b_telkien",
+        "shape_area": 6.38,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "53 Telkien",
+        "FNA": "Barrio Telkien",
+        "GNA": "Barrio",
+        "NAM": "Telkien",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7312242,
+              -53.7916634
+            ],
+            [
+              -67.7342283,
+              -53.7937421
+            ],
+            [
+              -67.7318358,
+              -53.7949716
+            ],
+            [
+              -67.730838,
+              -53.7942681
+            ],
+            [
+              -67.7298402,
+              -53.7936027
+            ],
+            [
+              -67.7287781,
+              -53.7929246
+            ],
+            [
+              -67.7312242,
+              -53.7916634
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 54,
+        "nombre": "Textil",
+        "layer": "b_textil",
+        "shape_area": 6.46,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "54 Textil",
+        "FNA": "Barrio Textil",
+        "GNA": "Barrio",
+        "NAM": "Textil",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7220618,
+              -53.7693866
+            ],
+            [
+              -67.7205276,
+              -53.7695578
+            ],
+            [
+              -67.7195727,
+              -53.7696847
+            ],
+            [
+              -67.7187359,
+              -53.7697671
+            ],
+            [
+              -67.7162146,
+              -53.7680423
+            ],
+            [
+              -67.7164614,
+              -53.7679725
+            ],
+            [
+              -67.7189505,
+              -53.7676999
+            ],
+            [
+              -67.7199161,
+              -53.7675857
+            ],
+            [
+              -67.7214074,
+              -53.7673828
+            ],
+            [
+              -67.7220618,
+              -53.7693866
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 55,
+        "nombre": "Thorne",
+        "layer": "b_thorne",
+        "shape_area": 57.65,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "55 Thorne",
+        "FNA": "Barrio Thorne",
+        "GNA": "Barrio",
+        "NAM": "Thorne",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7028841,
+              -53.7738981
+            ],
+            [
+              -67.7035278,
+              -53.7738093
+            ],
+            [
+              -67.7038926,
+              -53.7736445
+            ],
+            [
+              -67.7041286,
+              -53.7735811
+            ],
+            [
+              -67.7045149,
+              -53.773543
+            ],
+            [
+              -67.7048367,
+              -53.7735557
+            ],
+            [
+              -67.7137202,
+              -53.7797436
+            ],
+            [
+              -67.7061671,
+              -53.7835978
+            ],
+            [
+              -67.6987857,
+              -53.778463
+            ],
+            [
+              -67.6999015,
+              -53.7771189
+            ],
+            [
+              -67.7008242,
+              -53.7760031
+            ],
+            [
+              -67.7013606,
+              -53.775293
+            ],
+            [
+              -67.7021116,
+              -53.7746336
+            ],
+            [
+              -67.7025193,
+              -53.7740376
+            ],
+            [
+              -67.7028841,
+              -53.7738981
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 56,
+        "nombre": "Unión",
+        "layer": "b_union",
+        "shape_area": 7.67,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "56 Unión",
+        "FNA": "Barrio Unión",
+        "GNA": "Barrio",
+        "NAM": "Unión",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7379673,
+              -53.7676206
+            ],
+            [
+              -67.7386647,
+              -53.7680835
+            ],
+            [
+              -67.7385574,
+              -53.769523
+            ],
+            [
+              -67.7346414,
+              -53.771514
+            ],
+            [
+              -67.7328282,
+              -53.7702585
+            ],
+            [
+              -67.7338474,
+              -53.7697639
+            ],
+            [
+              -67.7349954,
+              -53.7691488
+            ],
+            [
+              -67.7356391,
+              -53.7687937
+            ],
+            [
+              -67.7379673,
+              -53.7676206
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 57,
+        "nombre": "YPF",
+        "layer": "b_ypf",
+        "shape_area": 7.16,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "57 YPF",
+        "FNA": "Barrio YPF",
+        "GNA": "Barrio",
+        "NAM": "YPF",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7615539,
+              -53.743194
+            ],
+            [
+              -67.7617577,
+              -53.7434224
+            ],
+            [
+              -67.7613929,
+              -53.7436318
+            ],
+            [
+              -67.7546553,
+              -53.7456114
+            ],
+            [
+              -67.7537863,
+              -53.7457256
+            ],
+            [
+              -67.7530997,
+              -53.7459794
+            ],
+            [
+              -67.7527456,
+              -53.7458144
+            ],
+            [
+              -67.7523165,
+              -53.7453893
+            ],
+            [
+              -67.7532391,
+              -53.7450277
+            ],
+            [
+              -67.7560608,
+              -53.7439808
+            ],
+            [
+              -67.756844,
+              -53.7437397
+            ],
+            [
+              -67.7578417,
+              -53.7434288
+            ],
+            [
+              -67.7587,
+              -53.7432194
+            ],
+            [
+              -67.7596763,
+              -53.7429719
+            ],
+            [
+              -67.760481,
+              -53.7427752
+            ],
+            [
+              -67.760835,
+              -53.7426547
+            ],
+            [
+              -67.7613393,
+              -53.7432257
+            ],
+            [
+              -67.7615539,
+              -53.743194
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 58,
+        "nombre": "Altos de la Estancia",
+        "layer": null,
+        "shape_area": 74.81,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "58 Altos de la Estancia",
+        "FNA": "Barrio Altos de la Estancia",
+        "GNA": "Barrio",
+        "NAM": "Altos de la Estancia",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7773577,
+              -53.7377323
+            ],
+            [
+              -67.7744625,
+              -53.744876
+            ],
+            [
+              -67.7580779,
+              -53.749782
+            ],
+            [
+              -67.7568874,
+              -53.7482899
+            ],
+            [
+              -67.7551351,
+              -53.7490306
+            ],
+            [
+              -67.7521933,
+              -53.747686
+            ],
+            [
+              -67.7506831,
+              -53.7469374
+            ],
+            [
+              -67.7527055,
+              -53.7467271
+            ],
+            [
+              -67.7572371,
+              -53.745341
+            ],
+            [
+              -67.7632204,
+              -53.7437211
+            ],
+            [
+              -67.7639711,
+              -53.7435731
+            ],
+            [
+              -67.7657981,
+              -53.7430736
+            ],
+            [
+              -67.7690891,
+              -53.7419006
+            ],
+            [
+              -67.7717707,
+              -53.740737
+            ],
+            [
+              -67.7727294,
+              -53.7404615
+            ],
+            [
+              -67.7723588,
+              -53.7399664
+            ],
+            [
+              -67.7773577,
+              -53.7377323
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 59,
+        "nombre": "San Martin Norte 2",
+        "layer": null,
+        "shape_area": 203.51,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "59 San Martin Norte 2",
+        "FNA": "Barrio San Martin Norte 2",
+        "GNA": "Barrio",
+        "NAM": "San Martin Norte 2",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.774068,
+              -53.7454206
+            ],
+            [
+              -67.7723809,
+              -53.750759
+            ],
+            [
+              -67.7500016,
+              -53.7616895
+            ],
+            [
+              -67.743862,
+              -53.7616423
+            ],
+            [
+              -67.7434133,
+              -53.7530818
+            ],
+            [
+              -67.7431495,
+              -53.751293
+            ],
+            [
+              -67.7429996,
+              -53.7504788
+            ],
+            [
+              -67.7418778,
+              -53.7501295
+            ],
+            [
+              -67.7399108,
+              -53.7487896
+            ],
+            [
+              -67.748069,
+              -53.7462744
+            ],
+            [
+              -67.7501907,
+              -53.747568
+            ],
+            [
+              -67.7543613,
+              -53.7500255
+            ],
+            [
+              -67.7557959,
+              -53.7507404
+            ],
+            [
+              -67.774068,
+              -53.7454206
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 60,
+        "nombre": "San Martin Norte 1",
+        "layer": null,
+        "shape_area": 52.92,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "60 San Martin Norte 1",
+        "FNA": "Barrio San Martin Norte 1",
+        "GNA": "Barrio",
+        "NAM": "San Martin Norte 1",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7720128,
+              -53.7514815
+            ],
+            [
+              -67.7685193,
+              -53.7597355
+            ],
+            [
+              -67.7595646,
+              -53.760738
+            ],
+            [
+              -67.7537068,
+              -53.7606402
+            ],
+            [
+              -67.7529815,
+              -53.7602346
+            ],
+            [
+              -67.7698065,
+              -53.7522718
+            ],
+            [
+              -67.7720128,
+              -53.7514815
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 61,
+        "nombre": "Bilbao",
+        "layer": null,
+        "shape_area": 28.62,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "61 Bilbao",
+        "FNA": "Barrio Bilbao",
+        "GNA": "Barrio",
+        "NAM": "Bilbao",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7438524,
+              -53.7614594
+            ],
+            [
+              -67.7397388,
+              -53.7613897
+            ],
+            [
+              -67.7398365,
+              -53.7531563
+            ],
+            [
+              -67.7394579,
+              -53.7510504
+            ],
+            [
+              -67.7431495,
+              -53.751293
+            ],
+            [
+              -67.7434133,
+              -53.7530818
+            ],
+            [
+              -67.7438524,
+              -53.7614594
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 62,
+        "nombre": "Policia",
+        "layer": null,
+        "shape_area": 13.25,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "62 Policia",
+        "FNA": "Barrio Policia",
+        "GNA": "Barrio",
+        "NAM": "Policia",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7372297,
+              -53.7497981
+            ],
+            [
+              -67.7398365,
+              -53.7531563
+            ],
+            [
+              -67.7306671,
+              -53.753055
+            ],
+            [
+              -67.7319931,
+              -53.751818
+            ],
+            [
+              -67.7351509,
+              -53.7502622
+            ],
+            [
+              -67.7372297,
+              -53.7497981
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 63,
+        "nombre": "Las Barrancas",
+        "layer": null,
+        "shape_area": 24.47,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "63 Las Barrancas",
+        "FNA": "Barrio Las Barrancas",
+        "GNA": "Barrio",
+        "NAM": "Las Barrancas",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7330387,
+              -53.7566181
+            ],
+            [
+              -67.7292098,
+              -53.7600234
+            ],
+            [
+              -67.728519,
+              -53.7600498
+            ],
+            [
+              -67.7248942,
+              -53.7616878
+            ],
+            [
+              -67.722513,
+              -53.7599657
+            ],
+            [
+              -67.7286189,
+              -53.7548618
+            ],
+            [
+              -67.7330387,
+              -53.7566181
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 64,
+        "nombre": "CGT 2",
+        "layer": null,
+        "shape_area": 91.09,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "64 CGT 2",
+        "FNA": "Barrio CGT 2",
+        "GNA": "Barrio",
+        "NAM": "CGT 2",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7395271,
+              -53.7666557
+            ],
+            [
+              -67.7353782,
+              -53.7685759
+            ],
+            [
+              -67.7292953,
+              -53.7644573
+            ],
+            [
+              -67.7326319,
+              -53.7627551
+            ],
+            [
+              -67.7328585,
+              -53.7625865
+            ],
+            [
+              -67.7292079,
+              -53.7602717
+            ],
+            [
+              -67.7332271,
+              -53.7566919
+            ],
+            [
+              -67.7335083,
+              -53.7564645
+            ],
+            [
+              -67.7291286,
+              -53.7546715
+            ],
+            [
+              -67.7306671,
+              -53.753055
+            ],
+            [
+              -67.739836,
+              -53.7531987
+            ],
+            [
+              -67.7396072,
+              -53.7643484
+            ],
+            [
+              -67.7395271,
+              -53.7666557
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 65,
+        "nombre": "Chacra IV",
+        "layer": null,
+        "shape_area": 28.7,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "65 Chacra IV",
+        "FNA": "Barrio Chacra IV",
+        "GNA": "Barrio",
+        "NAM": "Chacra IV",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7389804,
+              -53.7753042
+            ],
+            [
+              -67.7383044,
+              -53.7752835
+            ],
+            [
+              -67.7263249,
+              -53.7749287
+            ],
+            [
+              -67.7260019,
+              -53.7747094
+            ],
+            [
+              -67.7264878,
+              -53.7745088
+            ],
+            [
+              -67.7318718,
+              -53.7745876
+            ],
+            [
+              -67.7304163,
+              -53.7736807
+            ],
+            [
+              -67.7331816,
+              -53.7722585
+            ],
+            [
+              -67.7313843,
+              -53.7710108
+            ],
+            [
+              -67.7328017,
+              -53.7702823
+            ],
+            [
+              -67.7346414,
+              -53.771514
+            ],
+            [
+              -67.7385764,
+              -53.76953
+            ],
+            [
+              -67.7386647,
+              -53.7680835
+            ],
+            [
+              -67.7379793,
+              -53.7676286
+            ],
+            [
+              -67.7382348,
+              -53.7674974
+            ],
+            [
+              -67.7395362,
+              -53.7671918
+            ],
+            [
+              -67.7389804,
+              -53.7753042
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 66,
+        "nombre": "Buena Vista",
+        "layer": null,
+        "shape_area": 23.34,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "66 Buena Vista",
+        "FNA": "Barrio Buena Vista",
+        "GNA": "Barrio",
+        "NAM": "Buena Vista",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7246376,
+              -53.7740459
+            ],
+            [
+              -67.7192677,
+              -53.7769156
+            ],
+            [
+              -67.7144238,
+              -53.7735976
+            ],
+            [
+              -67.7200856,
+              -53.7707245
+            ],
+            [
+              -67.7246376,
+              -53.7740459
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 67,
+        "nombre": "Mutual",
+        "layer": null,
+        "shape_area": 60.46,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "67 Mutual",
+        "FNA": "Barrio Mutual",
+        "GNA": "Barrio",
+        "NAM": "Mutual",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7198217,
+              -53.7706767
+            ],
+            [
+              -67.7090886,
+              -53.7763034
+            ],
+            [
+              -67.7046483,
+              -53.7734542
+            ],
+            [
+              -67.7043023,
+              -53.7722532
+            ],
+            [
+              -67.7126662,
+              -53.765602
+            ],
+            [
+              -67.7198217,
+              -53.7706767
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 68,
+        "nombre": "La Trucha",
+        "layer": null,
+        "shape_area": 16.27,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "68 La Trucha",
+        "FNA": "Barrio La Trucha",
+        "GNA": "Barrio",
+        "NAM": "La Trucha",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7334129,
+              -53.7877634
+            ],
+            [
+              -67.7331059,
+              -53.7886053
+            ],
+            [
+              -67.7334126,
+              -53.7892859
+            ],
+            [
+              -67.7343424,
+              -53.7901282
+            ],
+            [
+              -67.7368891,
+              -53.7919985
+            ],
+            [
+              -67.7346244,
+              -53.7931517
+            ],
+            [
+              -67.7318461,
+              -53.7913898
+            ],
+            [
+              -67.7285322,
+              -53.7890986
+            ],
+            [
+              -67.7274039,
+              -53.7883189
+            ],
+            [
+              -67.7270723,
+              -53.7878238
+            ],
+            [
+              -67.7334129,
+              -53.7877634
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 69,
+        "nombre": "Chacra IX B",
+        "layer": null,
+        "shape_area": 36.77,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "69 Chacra IX B",
+        "FNA": "Barrio Chacra IX B",
+        "GNA": "Barrio",
+        "NAM": "Chacra IX B",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7346007,
+              -53.7932947
+            ],
+            [
+              -67.7396947,
+              -53.790801
+            ],
+            [
+              -67.745457,
+              -53.7883364
+            ],
+            [
+              -67.7490515,
+              -53.7908472
+            ],
+            [
+              -67.7388918,
+              -53.7962609
+            ],
+            [
+              -67.7346007,
+              -53.7932947
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 70,
+        "nombre": "Chacra IX A",
+        "layer": null,
+        "shape_area": 53.68,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "70 Chacra IX A",
+        "FNA": "Barrio Chacra IX A",
+        "GNA": "Barrio",
+        "NAM": "Chacra IX A",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7552404,
+              -53.79476
+            ],
+            [
+              -67.74473,
+              -53.8002951
+            ],
+            [
+              -67.7389712,
+              -53.7963223
+            ],
+            [
+              -67.7493071,
+              -53.7908581
+            ],
+            [
+              -67.7552404,
+              -53.79476
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 71,
+        "nombre": "Donoso 1",
+        "layer": null,
+        "shape_area": 48.78,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "71 Donoso 1",
+        "FNA": "Barrio Donoso 1",
+        "GNA": "Barrio",
+        "NAM": "Donoso 1",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7590687,
+              -53.7930553
+            ],
+            [
+              -67.7555294,
+              -53.7947192
+            ],
+            [
+              -67.7492276,
+              -53.7908034
+            ],
+            [
+              -67.7508296,
+              -53.7898636
+            ],
+            [
+              -67.7525311,
+              -53.7890064
+            ],
+            [
+              -67.7540994,
+              -53.7899353
+            ],
+            [
+              -67.7595927,
+              -53.7872764
+            ],
+            [
+              -67.7637679,
+              -53.7869843
+            ],
+            [
+              -67.7668702,
+              -53.7890825
+            ],
+            [
+              -67.7590687,
+              -53.7930553
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 72,
+        "nombre": "Chacra XII B",
+        "layer": null,
+        "shape_area": 34.3,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "72 Chacra XII B",
+        "FNA": "Barrio Chacra XII B",
+        "GNA": "Barrio",
+        "NAM": "Chacra XII B",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7597501,
+              -53.7929511
+            ],
+            [
+              -67.769449,
+              -53.799716
+            ],
+            [
+              -67.7652977,
+              -53.8017763
+            ],
+            [
+              -67.7558576,
+              -53.7949547
+            ],
+            [
+              -67.7597501,
+              -53.7929511
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 73,
+        "nombre": "Chacra XIV",
+        "layer": null,
+        "shape_area": 71.11,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "73 Chacra XIV",
+        "FNA": "Barrio Chacra XIV",
+        "GNA": "Barrio",
+        "NAM": "Chacra XIV",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7625798,
+              -53.8033739
+            ],
+            [
+              -67.7743717,
+              -53.7976835
+            ],
+            [
+              -67.7775876,
+              -53.7969445
+            ],
+            [
+              -67.7778664,
+              -53.8022034
+            ],
+            [
+              -67.7772115,
+              -53.8052693
+            ],
+            [
+              -67.777276,
+              -53.8077487
+            ],
+            [
+              -67.7712399,
+              -53.8068612
+            ],
+            [
+              -67.7681101,
+              -53.8064752
+            ],
+            [
+              -67.7669865,
+              -53.8059284
+            ],
+            [
+              -67.7625798,
+              -53.8033739
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 74,
+        "nombre": "Chacra XII A",
+        "layer": null,
+        "shape_area": 58.9,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "74 Chacra XII A",
+        "FNA": "Barrio Chacra XII A",
+        "GNA": "Barrio",
+        "NAM": "Chacra XII A",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7741205,
+              -53.7974948
+            ],
+            [
+              -67.7699792,
+              -53.7996052
+            ],
+            [
+              -67.7695173,
+              -53.7993682
+            ],
+            [
+              -67.7598971,
+              -53.7926335
+            ],
+            [
+              -67.7668702,
+              -53.7890825
+            ],
+            [
+              -67.774193,
+              -53.7940991
+            ],
+            [
+              -67.7741205,
+              -53.7974948
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 75,
+        "nombre": "UOM NORTE",
+        "layer": null,
+        "shape_area": 5.05,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "75 UOM NORTE",
+        "FNA": "Barrio UOM NORTE",
+        "GNA": "Barrio",
+        "NAM": "UOM NORTE",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7781462,
+              -53.7966189
+            ],
+            [
+              -67.774494,
+              -53.7969346
+            ],
+            [
+              -67.7741849,
+              -53.7944754
+            ],
+            [
+              -67.7764145,
+              -53.79446
+            ],
+            [
+              -67.7766479,
+              -53.7955033
+            ],
+            [
+              -67.7777707,
+              -53.7955617
+            ],
+            [
+              -67.7781462,
+              -53.7966189
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 76,
+        "nombre": "Los Cisnes",
+        "layer": null,
+        "shape_area": 10.01,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "76Los Cisnes",
+        "FNA": "Barrio Los Cisnes",
+        "GNA": "Barrio",
+        "NAM": "Los Cisnes",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7848247,
+              -53.7930075
+            ],
+            [
+              -67.7783774,
+              -53.794856
+            ],
+            [
+              -67.7780615,
+              -53.7941073
+            ],
+            [
+              -67.7781977,
+              -53.7931522
+            ],
+            [
+              -67.7781657,
+              -53.7921719
+            ],
+            [
+              -67.7792003,
+              -53.7918153
+            ],
+            [
+              -67.7802919,
+              -53.7916717
+            ],
+            [
+              -67.7813051,
+              -53.7912351
+            ],
+            [
+              -67.7818947,
+              -53.7911115
+            ],
+            [
+              -67.7820939,
+              -53.7913386
+            ],
+            [
+              -67.7824928,
+              -53.7920522
+            ],
+            [
+              -67.7837769,
+              -53.7923685
+            ],
+            [
+              -67.7848247,
+              -53.7930075
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 77,
+        "nombre": "Vapor Amadeo",
+        "layer": null,
+        "shape_area": 48.03,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "77 Vapor Amadeo",
+        "FNA": "Barrio Vapor Amadeo",
+        "GNA": "Barrio",
+        "NAM": "Vapor Amadeo",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7849693,
+              -53.7931168
+            ],
+            [
+              -67.7864864,
+              -53.7939575
+            ],
+            [
+              -67.7855607,
+              -53.7942904
+            ],
+            [
+              -67.7857532,
+              -53.7947502
+            ],
+            [
+              -67.7854268,
+              -53.7950814
+            ],
+            [
+              -67.7850772,
+              -53.7957561
+            ],
+            [
+              -67.7853868,
+              -53.7969971
+            ],
+            [
+              -67.7857172,
+              -53.7977991
+            ],
+            [
+              -67.7865898,
+              -53.7983862
+            ],
+            [
+              -67.7879802,
+              -53.7983238
+            ],
+            [
+              -67.7874649,
+              -53.7990688
+            ],
+            [
+              -67.7878053,
+              -53.8002522
+            ],
+            [
+              -67.7877518,
+              -53.8009128
+            ],
+            [
+              -67.7871768,
+              -53.8013492
+            ],
+            [
+              -67.7865613,
+              -53.8017212
+            ],
+            [
+              -67.7859173,
+              -53.8019865
+            ],
+            [
+              -67.7846711,
+              -53.8018988
+            ],
+            [
+              -67.7837853,
+              -53.8020366
+            ],
+            [
+              -67.7834709,
+              -53.8025851
+            ],
+            [
+              -67.7829998,
+              -53.8028069
+            ],
+            [
+              -67.7823778,
+              -53.8036711
+            ],
+            [
+              -67.7823467,
+              -53.8051899
+            ],
+            [
+              -67.7817096,
+              -53.8072026
+            ],
+            [
+              -67.7813402,
+              -53.8073739
+            ],
+            [
+              -67.7804032,
+              -53.8065469
+            ],
+            [
+              -67.779796,
+              -53.806003
+            ],
+            [
+              -67.7806348,
+              -53.7986317
+            ],
+            [
+              -67.7784826,
+              -53.7949503
+            ],
+            [
+              -67.7849693,
+              -53.7931168
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 78,
+        "nombre": "Centro",
+        "layer": null,
+        "shape_area": 190.74,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "78 Centro",
+        "FNA": "Barrio Centro",
+        "GNA": "Barrio",
+        "NAM": "Centro",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7140797,
+              -53.7798904
+            ],
+            [
+              -67.7264759,
+              -53.7883446
+            ],
+            [
+              -67.7238747,
+              -53.7898069
+            ],
+            [
+              -67.7216003,
+              -53.7882098
+            ],
+            [
+              -67.7192868,
+              -53.789365
+            ],
+            [
+              -67.7179073,
+              -53.7900854
+            ],
+            [
+              -67.7189025,
+              -53.7907716
+            ],
+            [
+              -67.7147715,
+              -53.7928726
+            ],
+            [
+              -67.7177477,
+              -53.7949262
+            ],
+            [
+              -67.7161479,
+              -53.7957556
+            ],
+            [
+              -67.7111077,
+              -53.7922782
+            ],
+            [
+              -67.7098001,
+              -53.7929442
+            ],
+            [
+              -67.7075442,
+              -53.7915966
+            ],
+            [
+              -67.704709,
+              -53.7928583
+            ],
+            [
+              -67.7038106,
+              -53.7922557
+            ],
+            [
+              -67.6991657,
+              -53.7943386
+            ],
+            [
+              -67.6982117,
+              -53.7936946
+            ],
+            [
+              -67.693301,
+              -53.7903403
+            ],
+            [
+              -67.6925685,
+              -53.789618
+            ],
+            [
+              -67.6920071,
+              -53.7897461
+            ],
+            [
+              -67.6922449,
+              -53.7874408
+            ],
+            [
+              -67.6927589,
+              -53.7872839
+            ],
+            [
+              -67.6930569,
+              -53.786423
+            ],
+            [
+              -67.6942741,
+              -53.7867498
+            ],
+            [
+              -67.6962313,
+              -53.7856852
+            ],
+            [
+              -67.6966358,
+              -53.7854799
+            ],
+            [
+              -67.6956557,
+              -53.7847364
+            ],
+            [
+              -67.6992706,
+              -53.7791698
+            ],
+            [
+              -67.7058787,
+              -53.7836532
+            ],
+            [
+              -67.7123668,
+              -53.7878982
+            ],
+            [
+              -67.7176141,
+              -53.7852751
+            ],
+            [
+              -67.7116516,
+              -53.7810145
+            ],
+            [
+              -67.7140797,
+              -53.7798904
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 79,
+        "nombre": "AGP A",
+        "layer": null,
+        "shape_area": 11.34,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "79 AGP A",
+        "FNA": "Barrio AGP A",
+        "GNA": "Barrio",
+        "NAM": "AGP A",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.6892118,
+              -53.7956304
+            ],
+            [
+              -67.6890985,
+              -53.795081
+            ],
+            [
+              -67.6890173,
+              -53.7945151
+            ],
+            [
+              -67.6887217,
+              -53.7930015
+            ],
+            [
+              -67.6911261,
+              -53.7914757
+            ],
+            [
+              -67.6916865,
+              -53.7927537
+            ],
+            [
+              -67.692628,
+              -53.7938058
+            ],
+            [
+              -67.6952051,
+              -53.7958551
+            ],
+            [
+              -67.6939842,
+              -53.79573
+            ],
+            [
+              -67.6927595,
+              -53.7958509
+            ],
+            [
+              -67.6913717,
+              -53.7962909
+            ],
+            [
+              -67.6892118,
+              -53.7956304
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "id": 80,
+        "nombre": "CAP",
+        "layer": null,
+        "shape_area": 28.62,
+        "Observacio": "Municipio de RG- Recolecto SPE-05-2020",
+        "etiqueta": "80 CAP",
+        "FNA": "Barrio CAP",
+        "GNA": "Barrio",
+        "NAM": "CAP",
+        "SAG": "IT_DGOT_SPE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.6729616,
+              -53.7998618
+            ],
+            [
+              -67.6781207,
+              -53.8051915
+            ],
+            [
+              -67.6760422,
+              -53.8058787
+            ],
+            [
+              -67.6740867,
+              -53.8060385
+            ],
+            [
+              -67.6712599,
+              -53.8062751
+            ],
+            [
+              -67.6707683,
+              -53.8047937
+            ],
+            [
+              -67.6702363,
+              -53.8033182
+            ],
+            [
+              -67.6685067,
+              -53.8036734
+            ],
+            [
+              -67.6672467,
+              -53.800954
+            ],
+            [
+              -67.6729616,
+              -53.7998618
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
