@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "id": 1,
-        "Nombre": "Residencial Turistica",
+        "nombre": "Residencial Turistica",
         "superficie": 67.8,
         "id_nom": "1Residencial Turistica"
       },
@@ -83,7 +83,7 @@
       "type": "Feature",
       "properties": {
         "id": 2,
-        "Nombre": "Industrial Fabril",
+        "nombre": "Industrial Fabril",
         "superficie": 222.8,
         "id_nom": "2Industrial Fabril"
       },
@@ -181,7 +181,7 @@
       "type": "Feature",
       "properties": {
         "id": 3,
-        "Nombre": "Reserva Natural Protegida Desem. Rio Turbio",
+        "nombre": "Reserva Natural Protegida Desem. Rio Turbio",
         "superficie": 100.1,
         "id_nom": "3Reserva Natural Protegida Desem. Rio Turbio"
       },
@@ -319,7 +319,7 @@
       "type": "Feature",
       "properties": {
         "id": 4,
-        "Nombre": "Uso Especial",
+        "nombre": "Uso Especial",
         "superficie": 532.2,
         "id_nom": "4Uso Especial"
       },
@@ -413,7 +413,7 @@
       "type": "Feature",
       "properties": {
         "id": 5,
-        "Nombre": "Residencial Turistica Especial",
+        "nombre": "Residencial Turistica Especial",
         "superficie": 13.3,
         "id_nom": "5Residencial Turistica Especial"
       },
@@ -479,7 +479,7 @@
       "type": "Feature",
       "properties": {
         "id": 6,
-        "Nombre": "Turistica Agropecuaria",
+        "nombre": "Turistica Agropecuaria",
         "superficie": 180.2,
         "id_nom": "6Turistica Agropecuaria"
       },
@@ -737,7 +737,7 @@
       "type": "Feature",
       "properties": {
         "id": 6,
-        "Nombre": "Turistica Agropecuaria",
+        "nombre": "Turistica Agropecuaria",
         "superficie": 187.9,
         "id_nom": "6Turistica Agropecuaria"
       },
@@ -1035,7 +1035,7 @@
       "type": "Feature",
       "properties": {
         "id": 7,
-        "Nombre": "Reserva Natural Protegida Desem. Rio Turbio",
+        "nombre": "Reserva Natural Protegida Desem. Rio Turbio",
         "superficie": 301.0,
         "id_nom": "7Reserva Natural Protegida Desem. Rio Turbio"
       },
@@ -1293,7 +1293,7 @@
       "type": "Feature",
       "properties": {
         "id": 8,
-        "Nombre": "Costa Lago Fagnano",
+        "nombre": "Costa Lago Fagnano",
         "superficie": 26.8,
         "id_nom": "8Costa Lago Fagnano"
       },
@@ -1431,7 +1431,7 @@
       "type": "Feature",
       "properties": {
         "id": 6,
-        "Nombre": "Turistica Agropecuaria",
+        "nombre": "Turistica Agropecuaria",
         "superficie": 327.2,
         "id_nom": "6Turistica Agropecuaria"
       },
@@ -1613,7 +1613,7 @@
       "type": "Feature",
       "properties": {
         "id": 9,
-        "Nombre": "Reserva Comunidad Ona",
+        "nombre": "Reserva Comunidad Ona",
         "superficie": 87.2,
         "id_nom": "9Reserva Comunidad Ona"
       },
@@ -1683,7 +1683,7 @@
       "type": "Feature",
       "properties": {
         "id": 10,
-        "Nombre": "Turistica",
+        "nombre": "Turistica",
         "superficie": 108.2,
         "id_nom": "10Turistica"
       },
@@ -1749,7 +1749,7 @@
       "type": "Feature",
       "properties": {
         "id": 11,
-        "Nombre": "Residencial Permanente",
+        "nombre": "Residencial Permanente",
         "superficie": 74.2,
         "id_nom": "11Residencial Permanente"
       },
@@ -1847,7 +1847,7 @@
       "type": "Feature",
       "properties": {
         "id": 12,
-        "Nombre": "Turistica Agropecuaria",
+        "nombre": "Turistica Agropecuaria",
         "superficie": 793.9,
         "id_nom": "12Turistica Agropecuaria"
       },
@@ -2225,7 +2225,7 @@
       "type": "Feature",
       "properties": {
         "id": 13,
-        "Nombre": "Micro Emprendimientos Productivos",
+        "nombre": "Micro Emprendimientos Productivos",
         "superficie": 18.4,
         "id_nom": "13Micro Emprendimientos Productivos"
       },
@@ -2263,7 +2263,7 @@
       "type": "Feature",
       "properties": {
         "id": 14,
-        "Nombre": "Provincias Unidas",
+        "nombre": "Provincias Unidas",
         "superficie": 29.9,
         "id_nom": "14Provincias Unidas"
       },
@@ -2383,7 +2383,7 @@
       "type": "Feature",
       "properties": {
         "id": 15,
-        "Nombre": "Turistica Agropecuaria",
+        "nombre": "Turistica Agropecuaria",
         "superficie": 34.5,
         "id_nom": "15Turistica Agropecuaria"
       },
@@ -2605,7 +2605,7 @@
       "type": "Feature",
       "properties": {
         "id": 16,
-        "Nombre": "Villa Nevada",
+        "nombre": "Villa Nevada",
         "superficie": 9.0,
         "id_nom": "16Villa Nevada"
       },
@@ -2667,7 +2667,7 @@
       "type": "Feature",
       "properties": {
         "id": 17,
-        "Nombre": "Centro",
+        "nombre": "Centro",
         "superficie": 20.0,
         "id_nom": "17Centro"
       },
@@ -2837,7 +2837,7 @@
       "type": "Feature",
       "properties": {
         "id": 18,
-        "Nombre": "Mixta Industrial",
+        "nombre": "Mixta Industrial",
         "superficie": 97.2,
         "id_nom": "18Mixta Industrial"
       },
@@ -2907,7 +2907,7 @@
       "type": "Feature",
       "properties": {
         "id": 19,
-        "Nombre": "Residencial Permanente",
+        "nombre": "Residencial Permanente",
         "superficie": 12.3,
         "id_nom": "19Residencial Permanente"
       },
@@ -2969,7 +2969,7 @@
       "type": "Feature",
       "properties": {
         "id": 1,
-        "Nombre": "Residencial Turistica",
+        "nombre": "Residencial Turistica",
         "superficie": 741.3,
         "id_nom": "1Residencial Turistica"
       },
@@ -3263,7 +3263,7 @@
       "type": "Feature",
       "properties": {
         "id": 20,
-        "Nombre": "Kareken",
+        "nombre": "Kareken",
         "superficie": 9.6,
         "id_nom": "20Kareken"
       },
@@ -3369,7 +3369,7 @@
       "type": "Feature",
       "properties": {
         "id": 21,
-        "Nombre": "s\/ord.",
+        "nombre": "s\/ord.",
         "superficie": 50.8,
         "id_nom": "21s\/ord."
       },
@@ -3491,7 +3491,7 @@
       "type": "Feature",
       "properties": {
         "id": 22,
-        "Nombre": "Islas del Sur",
+        "nombre": "Islas del Sur",
         "superficie": 7.8,
         "id_nom": "22Islas del Sur"
       },
@@ -3545,7 +3545,7 @@
       "type": "Feature",
       "properties": {
         "id": 23,
-        "Nombre": "Los Naranjos",
+        "nombre": "Los Naranjos",
         "superficie": 9.4,
         "id_nom": "23Los Naranjos"
       },
@@ -3675,7 +3675,7 @@
       "type": "Feature",
       "properties": {
         "id": 24,
-        "Nombre": "Recreativa",
+        "nombre": "Recreativa",
         "superficie": 9.4,
         "id_nom": "24Recreativa"
       },
